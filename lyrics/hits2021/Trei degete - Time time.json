@@ -4,10 +4,10 @@
             "time": 11500
         },{
             "line": "Un pepene, un pepene",
-            "time": 15000
+            "time": 14500
         },{
             "line": "Sunt fericit că mănânc",
-            "time": 19000
+            "time": 18500
         },{
             "line": "Un pepene, un pepene",
             "time": 22000
@@ -79,13 +79,16 @@
             "time": 86000
         },{
             "line": "Așa că bye bye",
-            "time": 88000
+            "time": 87000
         },{
             "line": "Plecăm, suntem gata să călătorim în",
-            "time": 90000
+            "time": 89000
         },{
             "line": "Time Time",
             "time": 92000
+        },{
+            "line": "Dansăm în time time",
+            "time": 93000
         },{
             "line": "Așa că bye bye",
             "time": 95000
@@ -175,10 +178,10 @@
             "time": 170000
         },{
             "line": "Plecăm, suntem gata să călătorim (ya-ya-ya-ya-ya)",
-            "time": 171500
+            "time": 170500
         },{
             "line": "Dansăm în time time",
-            "time": 173500
+            "time": 172500
         }
     ]
 }
