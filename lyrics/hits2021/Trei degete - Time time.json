@@ -1,1 +1,22 @@
-
+{
+    "lyrics": [{
+            "line": "Sunt fericit că mănânc",
+            "time": 11500
+        },{
+            "line": "Un pepene, un pepene",
+            "time": 15000
+        },{
+            "line": "Sunt fericit că mănânc",
+            "time": 19000
+        },{
+            "line": "Un pepene, un pepene",
+            "time": 22500
+        },{
+            "line": "Fără sâmburi, veniți!",
+            "time": 26000
+        },{
+            "line": "Dansăm în time time",
+            "time": 31500
+        }
+    ]
+}
