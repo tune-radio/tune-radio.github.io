@@ -1,29 +1,5 @@
 {
   "songs":[{
-      "albumart": "https://lh3.googleusercontent.com/Oyk-kdPaTA5CgVe7tNos38a3KhIEFzwKETyz1jDqsTL7g_qG2ggg6tOuvZqnYJXNisbFNiILsDDTXhI",
-      "author": "Burna boy",
-      "song": "Last Last",
-      "json":"https://asset-tune-music.github.io/lyrics/hits2022/Burna boy - Last Last.json",
-      "audio":"https://tune-music.github.io/hits2022/Burna boy - Last Last.ogg"
-    },{
-      "albumart": "https://lh3.googleusercontent.com/Oyk-kdPaTA5CgVe7tNos38a3KhIEFzwKETyz1jDqsTL7g_qG2ggg6tOuvZqnYJXNisbFNiILsDDTXhI",
-      "author": "Gabry Ponte ft Lum!x, Daddy DJ",
-      "song": "We Could Be Together",
-      "json":"https://asset-tune-music.github.io/lyrics/hits2022/Gabry Ponte ft Lum!x, Daddy DJ - We Could Be Together.json",
-      "audio":"https://tune-music.github.io/hits2022/Gabry Ponte ft Lum!x, Daddy DJ - We Could Be Together.ogg"
-    },{
-      "albumart": "https://lh3.googleusercontent.com/Oyk-kdPaTA5CgVe7tNos38a3KhIEFzwKETyz1jDqsTL7g_qG2ggg6tOuvZqnYJXNisbFNiILsDDTXhI",
-      "author": "Harry Styles",
-      "song": "Late Night Talking",
-      "json":"https://asset-tune-music.github.io/lyrics/hits2022/Harry Styles - Late Night Talking.json",
-      "audio":"https://tune-music.github.io/hits2022/Harry Styles - Late Night Talking.ogg"
-    },{
-      "albumart": "https://lh3.googleusercontent.com/Oyk-kdPaTA5CgVe7tNos38a3KhIEFzwKETyz1jDqsTL7g_qG2ggg6tOuvZqnYJXNisbFNiILsDDTXhI",
-      "author": "Sharam Jey ft Celestal, Moss Kena",
-      "song": "Over You",
-      "json":"https://asset-tune-music.github.io/lyrics/hits2022/Sharam%20Jey%20ft%20Celestal,%20Moss%20Kena-%20Over%20You.json",
-      "audio":"https://tune-music.github.io/hits2022/Sharam%20Jey%20ft%20Celestal,%20Moss%20Kena-%20Over%20You.ogg"
-    },{
       "albumart":"https://lh3.googleusercontent.com/54T5gcaWbTxoG8k0BwAhjA039afP69_CEOTLZLXVmYsNeuMzrR5wSyTGR8XrsKqDi1qJc0bKpJBniWSh7g",
       "author":"Ed Sheeran",
       "song":"2step",
