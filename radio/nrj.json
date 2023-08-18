@@ -1,0 +1,487 @@
+{
+    "songs":[
+      {
+        "albumart": "https://tune-radio.github.io/assets/radio/nrj.png",
+        "author": "Hit Music Only !",
+        "song": "NRJ",
+        "json": "",
+        "audio": "https://scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - HD",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40101/aac_576.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Abbeville",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40095/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Amiens",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40094/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Angers",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40013/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Annecy",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40099/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Annemasse",
+        "json":"",
+        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40131/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Avignon",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40017/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Bastia",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40188/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Beauvais",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40123/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Béziers",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40051/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Biarritz",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40110/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Bordeaux",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40001/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Boulogne-sur-Mer",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40175/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Bourg-en-Bresse",
+        "json":"",
+        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40052/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Brest",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40111/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Caen",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40055/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Chalon-sur-Saône",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40096/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Chambery",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40098/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Cherbourg",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40138/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Cholet",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40180/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Clermont-Ferrand",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40002/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Colmar",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40015/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Dieppe",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40126/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Epinal",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40186/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Grenoble",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40053/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - La Rochelle",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40133/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Le Havre",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40139/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Le Tréport",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40127/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Lille",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40004/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Limoges",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40109/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Lyon",
+        "json":"",
+        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40005/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Menton / Monaco",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40060/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Marseille",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40006/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Metz",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40016/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Mortagne",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40187/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Montélimar",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40115/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Montpellier",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40003/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Mulhouse",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40007/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Nancy",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40018/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Nantes",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40012/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Nevers",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40140/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Nice",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40008/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Nîmes",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40112/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Niort",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40141/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Orange",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40114/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Orléans",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40121/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Paris",
+        "json":"",
+        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40050/mp3_128.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Pau",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40142/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Perpignan",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40054/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Porto-Vecchio",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40189/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Reims",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40128/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Remiremont",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40185/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Rennes",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40014/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Roanne",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40058/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Rouen",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40009/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Saint-Etienne",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40059/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Saint-Nazaire",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40057/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Saint-Omer",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40174/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Saint-Pol-sur-Ternoise",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40176/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Strasbourg",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40010/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Tarbes",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40143/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Thionville",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40019/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Toul",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40137/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Toulouse",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40011/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Tours",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40092/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Troyes",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40093/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Valence",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40113/aac_64.mp3"
+      },
+      {
+        "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
+        "song":"Hit Music Only !",
+        "author":"NRJ - Valenciennes",
+        "json":"",
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40122/aac_64.mp3"
+      }
+    ]
+  }
