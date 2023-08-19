@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/bretagne5.png",
+            "author": "Écoutez la Bretagne",
+            "song": "Bretagne 5",
+            "json": "",
+            "audio": "https://bretagne5.streamakaci.com/bretagne5.mp3"
+        }
+    ]
+}
