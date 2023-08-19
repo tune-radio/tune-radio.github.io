@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/beurfm.png",
+            "author": "La radio de la diversité",
+            "song": "Beur FM",
+            "json": "",
+            "audio": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3"
+        }
+    ]
+}
