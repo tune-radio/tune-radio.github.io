@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/cuberadio.png",
+            "author": "Hits, Cubes & Tubes",
+            "song": "Cuberadio",
+            "json": "",
+            "audio": "https://api.cuberadio.fr/play"
+        }
+    ]
+}
