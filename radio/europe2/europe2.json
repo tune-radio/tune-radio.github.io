@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/europe2.png",
+            "author": "Le meilleur son",
+            "song": "Europe 2",
+            "json": "",
+            "audio": "https://europe2.lmn.fm/europe2"
+        }
+    ]
+}
