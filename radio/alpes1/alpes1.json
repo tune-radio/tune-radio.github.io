@@ -1,0 +1,18 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/alpes1.png",
+            "author": "La radio des Alpes du Sud",
+            "song": "Alpes 1 - Alpes Sud",
+            "json": "",
+            "audio": "https://alpes1gap.ice.infomaniak.ch/alpes1gap-high.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/alpes1.png",
+            "author": "La radio des Alpes du Sud",
+            "song": "Alpes 1 - Grand Grenoble",
+            "json": "",
+            "audio": "https://alpes1grenoble.ice.infomaniak.ch/alpes1grenoble-high.mp3"
+        }
+    ]
+}
