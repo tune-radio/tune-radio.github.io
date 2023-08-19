@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/adofm.png",
+            "author": "Hip-Hop & R'n'B",
+            "song": "Ado FM",
+            "json": "",
+            "audio": "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3"
+        }
+    ]
+}
