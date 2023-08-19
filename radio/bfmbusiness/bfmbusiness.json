@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/bfmbusiness.png",
+            "author": "La France a tout pour réussir",
+            "song": "BFM Business",
+            "json": "",
+            "audio": "https://audio.bfmtv.com/bfmbusiness_128.mp3"
+        }
+    ]
+}
