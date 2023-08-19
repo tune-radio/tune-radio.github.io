@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/blackbox.png",
+            "author": "Hip-Hop R'n'B Radio",
+            "song": "Blackbox",
+            "json": "",
+            "audio": "https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3"
+        }
+    ]
+}
