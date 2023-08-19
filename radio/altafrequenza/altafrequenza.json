@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/altafrequenza.png",
+            "author": "A radiò di a Corsica",
+            "song": "Alta Frequenza",
+            "json": "",
+            "audio": "https://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3"
+        }
+    ]
+}
