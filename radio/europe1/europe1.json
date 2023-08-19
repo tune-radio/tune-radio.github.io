@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/europe1.png",
+            "author": "Ecoutez le monde changer",
+            "song": "Europe 1",
+            "json": "",
+            "audio": "https://stream.europe1.fr/europe1.mp3"
+        }
+    ]
+}
