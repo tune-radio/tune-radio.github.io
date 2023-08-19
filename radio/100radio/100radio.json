@@ -1,0 +1,95 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Albi",
+            "json": "",
+            "audio": "https://100radio-albi.ice.infomaniak.ch/100radio-albi-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Auch",
+            "json": "",
+            "audio": "https://100radio-auch.ice.infomaniak.ch/100radio-auch-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Cahors",
+            "json": "",
+            "audio": "https://100radio-cahors.ice.infomaniak.ch/100radio-cahors-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Carcassone",
+            "json": "",
+            "audio": "https://100radio-carcassonne.ice.infomaniak.ch/100radio-carcassonne-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Castres",
+            "json": "",
+            "audio": "https://100radio-castres.ice.infomaniak.ch/100radio-castres-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Foix",
+            "json": "",
+            "audio": "https://100radio-foix.ice.infomaniak.ch/100radio-foix-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Herault",
+            "json": "",
+            "audio": "https://100radio-herault.ice.infomaniak.ch/100radio-herault-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Montauban",
+            "json": "",
+            "audio": "https://100radio-montauban.ice.infomaniak.ch/100radio-montauban-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Pau",
+            "json": "",
+            "audio": "https://100radio-pau.ice.infomaniak.ch/100radio-pau-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Perpignan",
+            "json": "",
+            "audio": "https://100radio-perpignan.ice.infomaniak.ch/100radio-perpignan-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - St-Gaudens",
+            "json": "",
+            "audio": "https://100radio-stgaudens.ice.infomaniak.ch/100radio-stgaudens-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Tarbes",
+            "json": "",
+            "audio": "https://100radio-tarbes.ice.infomaniak.ch/100radio-tarbes-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/100radio.png",
+            "author": "Les Tubes et l'info",
+            "song": "100% Radio - Toulouse",
+            "json": "",
+            "audio": "https://100radio-toulouse.ice.infomaniak.ch/100radio-toulouse-128.mp3"
+        }
+    ]
+}
