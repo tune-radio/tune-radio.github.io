@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/alouette.png",
+            "author": "Toujours plus de hits !",
+            "song": "Alouette",
+            "json": "",
+            "audio": "https://alouette.ice.infomaniak.ch/alouette-high.mp3"
+        }
+    ]
+}
