@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/latina.png",
+            "author": "Le son latino",
+            "song": "Latina",
+            "json": "",
+            "audio": "http://start-latina.ice.infomaniak.ch/start-latina-high.mp3"
+        }
+    ]
+}
