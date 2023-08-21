@@ -1,0 +1,60 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Essone",
+            "json": "",
+            "audio": "https://evasion91.ice.infomaniak.ch/evasion91-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Nord Seine et Marne",
+            "json": "",
+            "audio": "https://evasion77n.ice.infomaniak.ch/evasion77n-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Nord Yvelines",
+            "json": "",
+            "audio": "https://evasion78n.ice.infomaniak.ch/evasion78n-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Oise",
+            "json": "",
+            "audio": "https://evasion60e.ice.infomaniak.ch/evasion60e-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Paris",
+            "json": "",
+            "audio": "https://evasion75.ice.infomaniak.ch/evasion75-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Somme",
+            "json": "",
+            "audio": "https://evasion80.ice.infomaniak.ch/evasion80-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Sud Seine et Marne",
+            "json": "",
+            "audio": "https://evasion77s.ice.infomaniak.ch/evasion77s-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/evasion.png",
+            "author": "Toujours + De Tube",
+            "song": "Evasion - Sud Yvelines",
+            "json": "",
+            "audio": "https://evasion78s.ice.infomaniak.ch/evasion78s-128.mp3"
+        }
+    ]
+}
