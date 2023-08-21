@@ -1,0 +1,219 @@
+/*App style*/
+#root,body,html{margin:0;padding:0;font-family:"Montserrat",sans-serif;overflow:auto;height:100vh;width:100vw;-webkit-user-select:none;-ms-user-select:none;user-select:none;background: rgba(50,50,50,0.1);}
+#root{background:inherit}
+.album-art-background{transition: all ease .3s;bottom:50%;left:50%;transform:translate(-50%,50%);height:100vh;width:auto;display:block;opacity:.2;position:fixed;pointer-events:none;}
+header #top-bar #back{position: absolute; right: 15px; top: 5px;color:#fff;z-index:7;}
+header #top-bar button{transition: all ease .3s;background:inherit;color:inherit;border:none;padding:5px 10px;margin: 0 0px 0 15px;font-size: 22px;cursor:pointer;pointer-events:all}
+header #top-bar #about-song{transition: all ease .3s; position: absolute; left: 0px; top: 0px; margin:0;font-size:13px;line-height:150%;padding:10px;color:#fff;z-index:7;}
+header #top-bar #about-song *{margin:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+footer{position:fixed;bottom:0;z-index:5;width:100%;padding: 5px 0 7px;}
+footer #player #bar{position:relative;text-align:center;width:100%}
+footer #player #bar #currentTime,footer #player #bar #totalTime{padding:0;font-size:14px;width:53px;letter-spacing:1px}
+footer #player #bar #currentTime{text-align:right;padding-right:12px}
+footer #player #bar #totalTime{text-align:left;padding-left:12px}
+footer #player #bar #currentTime,footer #player #bar #progress-bar,footer #player #bar #totalTime{color:#fff}
+footer #player #bar #progress-bar{position:relative;text-align:center;padding:0;width:70%;background:#3c3c3c;border-radius:20px;margin:0;cursor:pointer}
+footer #player #bar #progress{height:5px;background:linear-gradient(115deg,#f003d0 0%,#ffa600 100%);border-radius:20px;text-align:right}
+footer #player #bar #progress>i{position:absolute;top:50%;transform:translate(-50%,-50%);box-shadow:0 0 8px 2px rgba(0,0,0,.27);padding:0 1px;color:transparent;background:#ffa600;border-radius:50%;font-size:80%;transition:all .5s ease}
+footer #player #bar #progress>i:hover{box-shadow:0 0 8px 2px rgba(0,0,0,.51)}footer #player #menu{position:relative;text-align:center;width:100%;overflow:hidden;padding:5px 0 2px}
+footer #player #menu>button{padding:10px 14px;border-radius:50%;border:none;margin:0 5px;background:inherit;color:#fff;font-size:20px;text-align:center;opacity:1;transition:all .2s ease;cursor:pointer}
+footer #player #menu>button>i{padding: 7px 6px;}
+footer #player #menu>button#play{opacity:1;border:2px solid #fff}
+footer #player #menu>button:focus{outline:none}
+footer #player #menu>button.off{opacity:.4}
+footer #player #menu>button.off:hover{opacity:.8}
+@media only screen and (max-width:320px){
+    footer #player #menu button{padding:10px 8px}
+    footer #player #menu button#play{padding:10px 14px}
+}
+#lyrics{width:100%;margin-top:60px;height:75.5vh;color:#fff;text-align:center;overflow-Y:scroll;font-size:13px;scroll-behavior:smooth;transition: all ease .3s;}
+#lyrics #lyrics-content{width:90%;margin:auto;padding:20px 0;transition:all .1s ease}
+#lyrics h2{opacity:.25}#lyrics .on-top{opacity:1;font-size:250%}
+
+@media only screen and (max-height:720px){
+    #lyrics{height:71vh}
+}
+@media only screen and (max-height:660px){
+    #lyrics{height:71vh}
+}
+@media only screen and (max-height:638px){
+    #lyrics{height:68vh}
+}@media only screen and (max-height:575px){
+    #lyrics{height:66vh}
+}
+@media only screen and (max-height:558px){
+    #lyrics{height:64vh}
+}
+@media only screen and (max-height:511px){
+    #lyrics{height:60vh}
+}
+@media only screen and (max-height:460px){
+    #lyrics{height:56vh}
+}
+@media only screen and (max-height:418px){
+    #lyrics{height:52vh}
+}@media only screen and (max-height:384px){
+    #lyrics{height:48vh}
+}
+@media only screen and (max-height:355px){
+    #lyrics{height:44vh}
+}
+@media only screen and (max-height:329px){
+    #lyrics{height:40vh}
+}@media only screen and (max-height:308px){
+    #lyrics{height:32vh}
+}
+
+/*App style*/
+#playlist{position:fixed;top:0;right:0;height:100vh;width: 100%;z-index:5;color:#fff;background:rgba(50,50,50,0.3);transition: all ease 0.5s;transform:translateX(100%)}
+#playlist.show{transform:none!important}
+#playlist #label{width:100%;text-align:center;font-size:70%}
+#playlist #label>h1{line-height:normal;margin:3vh 0 0}
+#playlist #label #search{background:transparent;color:#fff;border:1px solid hsla(0,0%,100%,.6);padding:8px;margin:2.5vh 0;border-radius:50px;font-family:FontAwesome,"Montserrat",sans-serif;transition:all .5s cubic-bezier(.175,.885,.32,1.275);width:12px;background:#fff}
+#playlist #label #search:focus{outline:none;border-radius:8px;border:1px solid #fff;width:25vw;padding:8px 13px;background:inherit}
+#playlist #show-box{position:absolute;top:50%;left:50%;height:60vh;width:70%;padding:0 4vh;transform:translate(-50%,-50%);overflow:auto}
+#playlist #show-box #show-list{position:relative;transition:all .5s ease-in-out;height:100%}
+#playlist #show-box #show-list .song-list{width:100%;display:block}
+#playlist #show-box #show-list .song-list .song-list-row{width:100%}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art{width:35px;height:35px;max-width:35px;max-height:35px;overflow:hidden;position:relative;margin:8px;border-radius:8px}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art img{width:100%;height:auto}
+#playlist #show-box #show-list .song-list .song-list-row .song-details{width:80%}
+#playlist #show-box #show-list .song-list .song-list-row .song-details h2,#playlist #show-box #show-list .song-list .song-list-row .song-details h4{margin:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#playlist #show-box #show-list .song-list .song-list-row .song-details h2{font-size:90%;line-height:120%}
+#playlist #show-box #show-list .song-list .song-list-row .song-details h4{font-size:60%;line-height:160%;font-weight:400}
+#playlist #show-box #show-list .song-list .song-list-row .options{border-radius:50%;border:2px solid #fff;color:#fff;padding:6px 8px;cursor:pointer}
+#playlist #show-box #show-list .song-list .song-list-row .options i{display:block}
+#playlist #show-box #show-list .song-list .song-list-row .options i.fa-play{transform:translateX(10%)}
+.flex{display:flex;}
+.flex.vrtlCenter{align-items:center;}
+.flex.hrtlCenter{justify-content:center}
+.low-text-opacity{opacity:.67}
+button:focus{outline:none}
+#show-box::-webkit-scrollbar,::-webkit-scrollbar{width:7px;}
+#show-box::-webkit-scrollbar-track,::-webkit-scrollbar-track{box-shadow:inset 0 0 6px rgba(0,0,0,.3);}
+#show-box::-webkit-scrollbar-thumb,::-webkit-scrollbar-thumb{background-color:#a9a9a9;}
+
+@media only screen and (max-height:500px){
+    #playlist>#label{font-size:60%}
+    #search{font-size:10px;padding:4px!important}
+    #search:focus{width:40vw}
+    #playlist>#label>h1{line-height:normal;margin:3vh 0 0!important}
+}
+@media only screen and (max-height:600px){
+    #playlist #show-box{top:48%;height:60vh}
+}
+@media only screen and (max-height:500px){
+    #playlist #show-box{top:45%;height:53vh}
+}
+@media only screen and (max-height:400px){
+    #playlist #show-box{top:45%;height:42vh}
+}
+@media only screen and (max-height:350px){
+    #playlist #show-box{top:45%;height:30vh}
+}
+@media only screen and (max-height:300px){
+    #playlist #show-box{top:42%;height:20vh}
+}
+@media only screen and (max-height:250px){
+    #playlist #show-box{top:40%;height:15vh}
+}
+@media only screen and (max-width:800px){
+    #playlist{width:100%!important}
+}
+.iconhover{
+    opacity: .5;
+}
+.iconhover:hover{
+    opacity: 1;
+}
+
+@media only screen and (max-height:200px) and (min-width:600px){
+    #playlist, #lyrics, header #top-bar button{
+        display: none;
+    }
+    header #top-bar #about-song{
+        left: 75px;
+        top: 0px;
+        font-size: 15px;
+    }
+    .album-art-background{
+        left: 5px;
+        transform: translate(0%,0%);
+        height: 70px;
+        border-radius: 10px;
+        width: auto;
+        opacity: 1;
+        bottom: 10px;
+    }
+    footer #player #menu{
+        padding: 5px 0;
+    }
+    #root,body,html{
+        background: transparent;
+    }
+}
+
+@media only screen and (min-height:200px) and (max-width:600px){
+    .album-art-background{
+        width: 75%;
+        height: auto;
+    }
+}
+
+@media only screen and (max-height:200px) and (max-width:600px){
+    header #top-bar #about-song{
+        left: 75px;
+        top: 0px;
+        font-size: 15px;
+    }
+    .album-art-background{
+        left: 5px;
+        transform:translate(0%,0%);
+        height: 65px;
+        border-radius: 10px;
+        width: auto;
+        opacity: 1;
+        bottom: 15px;
+    }
+    #playlist, #lyrics, header #top-bar button, footer #player #bar, #shuffle, #repeat{
+        display: none;
+    }
+    footer {
+        bottom: 0;
+        right: 0px;
+        width: auto;
+        padding: 2px;
+    }
+    #root,body,html{
+        background: transparent;
+    }
+}
+
+.filligrane{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    display: none;
+    cursor: pointer;
+    height: 35px;
+    width: max-content;
+    z-index: 10;
+}
+.filligrane > a > h2{
+    display: none;
+    margin: 0px 5px;
+    font-size: 17px;
+    color: #fff !important;
+}
+.filligrane > a > img{
+    height: 27px;
+    width: 27px;
+}
+.filligrane:hover > a > h2{
+    display: block;
+}
+.filligrane > a{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
