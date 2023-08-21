@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/forum.png",
+            "author": "Collector radio !",
+            "song": "Forum",
+            "json": "",
+            "audio": "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3"
+        }
+    ]
+}
