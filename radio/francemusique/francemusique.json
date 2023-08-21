@@ -5,7 +5,7 @@
             "author": "Vous allez LA DO RÉ !",
             "song": "France Musique",
             "json": "",
-            "audio": "https://direct.francemusique.fr/live/francemusique-midfi.mp3"
+            "audio": "https://icecast.radiofrance.fr/francemusique-midfi.mp3"
         }
     ]
 }
