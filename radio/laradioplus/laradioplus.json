@@ -1,0 +1,60 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Alpes du sud",
+            "json": "",
+            "audio": "https://lalaradio.ice.infomaniak.ch/lalaradio-high.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Annecy",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Annemasse / Genève",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-genevois.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Aravis",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-aravis.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Chablais",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-chablais-vaud.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Cluses",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-cluses.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Mont Blanc",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-mont-blanc.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/laradioplus.png",
+            "author": "Hit music station",
+            "song": "La radio plus - Tarentaise",
+            "json": "",
+            "audio": "https://laradioplus.ice.infomaniak.ch/laradioplus-tarentaise.mp3"
+        }
+    ]
+}
