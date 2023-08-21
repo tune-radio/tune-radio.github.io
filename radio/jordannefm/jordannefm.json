@@ -1,0 +1,32 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/jordannefm.png",
+            "author": "La vie, ici",
+            "song": "Jordanne FM - Aurillac",
+            "json": "",
+            "audio": "https://live.jordannefm.fr/JFM-MD.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/jordannefm.png",
+            "author": "La vie, ici",
+            "song": "Jordanne FM - Corrèze",
+            "json": "",
+            "audio": "https://live.jordannefm.fr/JFM-COR-WEB.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/jordannefm.png",
+            "author": "La vie, ici",
+            "song": "Jordanne FM - Mauriac",
+            "json": "",
+            "audio": "https://live.jordannefm.fr/JFM-MAU-WEB.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/jordannefm.png",
+            "author": "La vie, ici",
+            "song": "Jordanne FM - Saint-Flour",
+            "json": "",
+            "audio": "https://live.jordannefm.fr/JFM-SFL-WEB.mp3"
+        }
+    ]
+}
