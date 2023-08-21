@@ -47,7 +47,7 @@
         "song":"NRJ - Annemasse",
         "author":"Hit Music Only !",
         "json":"",
-        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40131/aac_64.mp3"
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40131/aac_64.mp3"
       },
       {
         "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
@@ -103,7 +103,7 @@
         "author":"Hit Music Only !",
         "song":"NRJ - Bourg-en-Bresse",
         "json":"",
-        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40052/aac_64.mp3"
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40052/aac_64.mp3"
       },
       {
         "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
@@ -222,7 +222,7 @@
         "author":"Hit Music Only !",
         "song":"NRJ - Lyon",
         "json":"",
-        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40005/aac_64.mp3"
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40005/aac_64.mp3"
       },
       {
         "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
@@ -334,7 +334,7 @@
         "author":"Hit Music Only !",
         "song":"NRJ - Paris",
         "json":"",
-        "audio":"https://cdn.nrjaudio.fm/audio1/fr/40050/mp3_128.mp3"
+        "audio":"https://scdn.nrjaudio.fm/audio1/fr/40050/mp3_128.mp3"
       },
       {
         "albumart":"https://tune-radio.github.io/assets/radio/nrj.png",
