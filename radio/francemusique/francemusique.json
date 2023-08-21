@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/francemusique.png",
+            "author": "Vous allez LA DO RÉ !",
+            "song": "France Musique",
+            "json": "",
+            "audio": "https://direct.francemusique.fr/live/francemusique-midfi.mp3"
+        }
+    ]
+}
