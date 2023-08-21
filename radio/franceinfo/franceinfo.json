@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/franceinfo.png",
+            "author": "Et tout est plus clair",
+            "song": "France Info",
+            "json": "",
+            "audio": "https://icecast.radiofrance.fr/franceinfo-hifi.aac"
+        }
+    ]
+}
