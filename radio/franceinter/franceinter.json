@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/franceinter.png",
+            "author": "Vous êtes bien sur France Inter",
+            "song": "France Inter",
+            "json": "",
+            "audio": "https://icecast.radiofrance.fr/franceinter-hifi.aac"
+        }
+    ]
+}
