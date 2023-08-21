@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/funradio.png",
+            "author": "Enjoy The Music !",
+            "song": "Fun Radio",
+            "json": "",
+            "audio": "https://streamer-01.rtl.fr/fun-1-44-128"
+        }
+    ]
+}
