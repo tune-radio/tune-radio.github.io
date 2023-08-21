@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/hitwest.png",
+            "author": "Positive radio !",
+            "song": "Hit West",
+            "json": "",
+            "audio": "https://hitwest.ice.infomaniak.ch/hitwest-high.mp3"
+        }
+    ]
+}
