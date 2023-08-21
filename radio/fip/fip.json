@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/fip.png",
+            "author": "Vous n'êtes plus là, vous êtes sur FIP",
+            "song": "FIP",
+            "json": "",
+            "audio": "https://icecast.radiofrance.fr/fip-hifi.aac"
+        }
+    ]
+}
