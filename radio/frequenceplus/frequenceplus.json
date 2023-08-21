@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/frequenceplus.png",
+            "author": "À plein tubes",
+            "song": "Frequence Plus",
+            "json": "",
+            "audio": "https://freqplus.ice.infomaniak.ch/freqplus-high.mp3"
+        }
+    ]
+}
