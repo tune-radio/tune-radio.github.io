@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/francebleu.png",
+            "author": "Écoutez, on est bien ensemble",
+            "song": "France Bleu",
+            "json": "",
+            "audio": "https://icecast.radiofrance.fr/fb1071-midfi.mp3"
+        }
+    ]
+}
