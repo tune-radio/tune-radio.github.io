@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/ouifm.png",
+            "author": "La Radio du Rock",
+            "song": "Oüi FM",
+            "json": "",
+            "audio": "https://target-ad-2.cdn.dvmr.fr/ouifm-high.mp3"
+        }
+    ]
+}
