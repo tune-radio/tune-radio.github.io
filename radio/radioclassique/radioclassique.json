@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radioclassique.png",
+            "author": "Et votre journée devient plus belle !",
+            "song": "Radio Classique",
+            "json": "",
+            "audio": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
+        }
+    ]
+}
