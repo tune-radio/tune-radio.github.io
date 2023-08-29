@@ -1,0 +1,39 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/odsradio.png",
+            "author": "La première radio des Alpes",
+            "song": "ODS Radio - Ain",
+            "json": "",
+            "audio": "https://ods.ice.infomaniak.ch/ods-ain.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/odsradio.png",
+            "author": "La première radio des Alpes",
+            "song": "ODS Radio - Annecy",
+            "json": "",
+            "audio": "https://ods.ice.infomaniak.ch/ods-high.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/odsradio.png",
+            "author": "La première radio des Alpes",
+            "song": "ODS Radio - Annemasse / Genève",
+            "json": "",
+            "audio": "https://ods.ice.infomaniak.ch/ods-genevois.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/odsradio.png",
+            "author": "La première radio des Alpes",
+            "song": "ODS Radio - Savoie",
+            "json": "",
+            "audio": "https://ods.ice.infomaniak.ch/ods-savoie.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/odsradio.png",
+            "author": "La première radio des Alpes",
+            "song": "ODS Radio - Vallée de l'Arve",
+            "json": "",
+            "audio": "https://ods.ice.infomaniak.ch/ods-arve.mp3"
+        }
+    ]
+}
