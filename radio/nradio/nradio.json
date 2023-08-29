@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/nradio.png",
+            "author": "LA Radio de l'Aisne",
+            "song": "N'Radio",
+            "json": "",
+            "audio": "https://radio.ice.infomaniak.ch/nradio-128.mp3"
+        }
+    ]
+}
