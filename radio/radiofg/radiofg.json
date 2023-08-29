@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiofg.png",
+            "author": "DJ Radio",
+            "song": "Radio FG",
+            "json": "",
+            "audio": "https://radiofg.impek.com/fg"
+        }
+    ]
+}
