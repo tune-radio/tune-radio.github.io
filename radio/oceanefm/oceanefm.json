@@ -1,0 +1,102 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM",
+            "json": "",
+            "audio": "https://oceanefm.ice.infomaniak.ch/oceanefm-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Concarneau",
+            "json": "",
+            "audio": "https://oceaneconcarneau.ice.infomaniak.ch/oceaneconcarneau-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Guer",
+            "json": "",
+            "audio": "https://oceaneguer.ice.infomaniak.ch/oceaneguer-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Guingamp",
+            "json": "",
+            "audio": "https://oceaneguingamp.ice.infomaniak.ch/oceaneguingamp-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - La Roche Bernard",
+            "json": "",
+            "audio": "https://oceanelarochebernard.ice.infomaniak.ch/oceanelarochebernard-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - La Roche sur Yon",
+            "json": "",
+            "audio": "https://oceanelarochesuryon.ice.infomaniak.ch/oceanelarochesuryon-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Lannion",
+            "json": "",
+            "audio": "https://oceanelannion.ice.infomaniak.ch/oceanelannion-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Nantes",
+            "json": "",
+            "audio": "https://oceanenantes.ice.infomaniak.ch/oceanenantes-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Paimpol",
+            "json": "",
+            "audio": "https://oceanepaimpol.ice.infomaniak.ch/oceanepaimpol-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Quimper",
+            "json": "",
+            "audio": "https://oceanequimper.ice.infomaniak.ch/oceanequimper-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Redon",
+            "json": "",
+            "audio": "https://oceaneredon.ice.infomaniak.ch/oceaneredon-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Rouen",
+            "json": "",
+            "audio": "https://oceaneredon.ice.infomaniak.ch/oceanerouen-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Saint-Nazaire",
+            "json": "",
+            "audio": "https://oceanesaintnazaire.ice.infomaniak.ch/oceanesaintnazaire-128.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/oceanefm.png",
+            "author": "La vague pop rock",
+            "song": "Oceane FM - Vannes",
+            "json": "",
+            "audio": "https://oceanevannes.ice.infomaniak.ch/oceanevannes-128.mp3"
+        }
+    ]
+}
