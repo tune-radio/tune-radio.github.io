@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radionova.png",
+            "author": "Le Grand Mix !",
+            "song": "Radio Nova",
+            "json": "",
+            "audio": "https://novazz.ice.infomaniak.ch/novazz-128.mp3"
+        }
+    ]
+}
