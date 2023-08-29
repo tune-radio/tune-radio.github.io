@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/skyrock.png",
+            "author": "Premier sur le rap",
+            "song": "Skyrock",
+            "json": "",
+            "audio": "https://www.skyrock.fm/stream.php/tunein16_128.mp3"
+        }
+    ]
+}
