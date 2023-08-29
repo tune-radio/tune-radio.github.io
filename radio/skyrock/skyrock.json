@@ -5,7 +5,7 @@
             "author": "Premier sur le rap",
             "song": "Skyrock",
             "json": "",
-            "audio": "https://www.skyrock.fm/stream.php/tunein16_128.mp3"
+            "audio": "https://icecast.skyrock.net/s/natio_aac_128k?tvr_name=tuneradio&tvr_section1=128"
         }
     ]
 }
