@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radionumero1.png",
+            "author": "Plus de musique",
+            "song": "Radio Numero 1",
+            "json": "",
+            "audio": "https://radiono1.ice.infomaniak.ch/radiono1-128.mp3"
+        }
+    ]
+}
