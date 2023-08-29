@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiocaroline.png",
+            "author": "La Radio de Bretagne",
+            "song": "Radio Caroline",
+            "json": "",
+            "audio": "https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3"
+        }
+    ]
+}
