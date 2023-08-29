@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rfm.png",
+            "author": "Le Meilleur de la Musique",
+            "song": "RFM",
+            "json": "",
+            "audio": "https://ais-live.cloud-services.paris:8443/rfm.mp3"
+        }
+    ]
+}
