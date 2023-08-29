@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rtl.png",
+            "author": "RTL, Vivre ensemble",
+            "song": "RTL",
+            "json": "",
+            "audio": "https://icecast.rtl.fr/rtl-1-44-128"
+        }
+    ]
+}
