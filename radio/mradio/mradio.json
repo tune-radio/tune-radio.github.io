@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/mradio.png",
+            "author": "Numéro 1 sur la chanson française",
+            "song": "M Radio",
+            "json": "",
+            "audio": "https://mfm.ice.infomaniak.ch/mfm-128.mp3"
+        }
+    ]
+}
