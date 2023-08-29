@@ -1,0 +1,32 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiorva.png",
+            "author": "La Hit radio d'Auvergne",
+            "song": "Radio RVA - Ambert",
+            "json": "",
+            "audio": "https://rva.ice.infomaniak.ch/rva-ambert.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiorva.png",
+            "author": "La Hit radio d'Auvergne",
+            "song": "Radio RVA - Auvergne Sud",
+            "json": "",
+            "audio": "https://rva.ice.infomaniak.ch/rva-auvergne-sud.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiorva.png",
+            "author": "La Hit radio d'Auvergne",
+            "song": "Radio RVA - Puy de Dôme",
+            "json": "",
+            "audio": "https://rva.ice.infomaniak.ch/rva-high.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiorva.png",
+            "author": "La Hit radio d'Auvergne",
+            "song": "Radio RVA - Vichy",
+            "json": "",
+            "audio": "https://rva.ice.infomaniak.ch/rva-vichy.mp3"
+        }
+    ]
+}
