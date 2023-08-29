@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiocristal.png",
+            "author": "Musicale, Familiale, Locale !",
+            "song": "Radio Cristal",
+            "json": "",
+            "audio": "https://radiocristal.ice.infomaniak.ch/radiocristal-high.mp3"
+        }
+    ]
+}
