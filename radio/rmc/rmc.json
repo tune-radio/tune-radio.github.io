@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rmc.png",
+            "author": "Info, talk, sport",
+            "song": "RMC",
+            "json": "",
+            "audio": "https://audio.bfmtv.com/rmcradio_128.mp3"
+        }
+    ]
+}
