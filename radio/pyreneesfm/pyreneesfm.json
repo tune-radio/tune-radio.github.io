@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/pyreneesfm.png",
+            "author": "La Radio des Vallées",
+            "song": "Pyrénées FM",
+            "json": "",
+            "audio": "https://antenne.pyreneesfm.com/direct.mp3"
+        }
+    ]
+}
