@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rirechansons.png",
+            "author": "La radio du rire",
+            "song": "Rire & Chansons",
+            "json": "",
+            "audio": "https://scdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3"
+        }
+    ]
+}
