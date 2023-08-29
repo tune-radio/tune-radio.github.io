@@ -1,0 +1,32 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiodreyeckland.png",
+            "author": "Toute l'Alsace en musique !",
+            "song": "Radio Dreyeckland - Haguenau / Wissembourg",
+            "json": "",
+            "audio": "https://n22a-eu.rcs.revma.com/a10a84kyt4zuv.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiodreyeckland.png",
+            "author": "Toute l'Alsace en musique !",
+            "song": "Radio Dreyeckland - Mulhouse / Altkirch",
+            "json": "",
+            "audio": "https://n05a-eu.rcs.revma.com/aguwyw7fkzzuv.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiodreyeckland.png",
+            "author": "Toute l'Alsace en musique !",
+            "song": "Radio Dreyeckland - Selestat",
+            "json": "",
+            "audio": "https://n02a-eu.rcs.revma.com/wcrk7f9fkzzuv.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiodreyeckland.png",
+            "author": "Toute l'Alsace en musique !",
+            "song": "Radio Dreyeckland - Strasbourg / Saverne / Obernai",
+            "json": "",
+            "audio": "https://stream.rcs.revma.com/1vm371agkzzuv.mp3"
+        }
+    ]
+}
