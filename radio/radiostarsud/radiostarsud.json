@@ -1,0 +1,18 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiostarsud.png",
+            "author": "1re dans le cœur des Marseillais",
+            "song": "Radio Star Sud - Marseille",
+            "json": "",
+            "audio": "https://listen.radioking.com/radio/9728/stream/49346"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/radiostarsud.png",
+            "author": "1re dans le cœur des Marseillais",
+            "song": "Radio Star Sud - Toulon",
+            "json": "",
+            "audio": "https://listen.radioking.com/radio/492646/stream/549619"
+        }
+    ]
+}
