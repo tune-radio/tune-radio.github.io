@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/mixxfm.png",
+            "author": "Un Maxx de hits",
+            "song": "Mixx FM",
+            "json": "",
+            "audio": "https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3"
+        }
+    ]
+}
