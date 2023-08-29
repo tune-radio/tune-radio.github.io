@@ -1,0 +1,67 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM",
+            "json": "",
+            "audio": "http://stream.rtsfm.com/rts-national.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Avignion",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-avignon"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Béziers",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-beziers"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Montpelier",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-montpellier"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Narbonne",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-narbonne"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Perpignan",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-perpignan"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Nimes",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-nimes"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Sète",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-sete"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rts.png",
+            "author": "Music Info Trafic",
+            "song": "RTS FM - Toulouse",
+            "json": "",
+            "audio": "https://sc.creacast.com/rts-toulouse"
+        }
+    ]
+}
