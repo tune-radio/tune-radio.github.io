@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/pharefm.png",
+            "author": "La radio Autrement",
+            "song": "Phare FM",
+            "json": "",
+            "audio": "https://str0.creacast.com/pharefm"
+        }
+    ]
+}
