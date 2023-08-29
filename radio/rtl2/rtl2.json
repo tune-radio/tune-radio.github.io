@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/rtl2.png",
+            "author": "Le son Pop-Rock",
+            "song": "RTL 2",
+            "json": "",
+            "audio": "https://icecast.rtl2.fr/rtl2-1-44-128"
+        }
+    ]
+}
