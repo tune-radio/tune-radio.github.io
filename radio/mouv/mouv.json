@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/mouv.png",
+            "author": "Hip Hop Nation",
+            "song": "Mouv'",
+            "json": "",
+            "audio": "https://direct.mouv.fr/live/mouv-midfi.mp3"
+        }
+    ]
+}
