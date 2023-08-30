@@ -1,0 +1,144 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Alençon",
+            "json": "",
+            "audio": "https://sweetfm-alencon.ice.infomaniak.ch/sweetfm-alencon-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Angers",
+            "json": "",
+            "audio": "https://sweetfm-angers.ice.infomaniak.ch/sweetfm-angers-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Blois",
+            "json": "",
+            "audio": "https://sweetfm-blois.ice.infomaniak.ch/sweetfm-blois-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Caen",
+            "json": "",
+            "audio": "https://sweetfm-caen.ice.infomaniak.ch/sweetfm-caen-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Château-Gontier / Craon",
+            "json": "",
+            "audio": "https://sweetfm-haut-anjou.ice.infomaniak.ch/sweetfm-haut-anjou-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Evreux",
+            "json": "",
+            "audio": "https://sweetfm-evreux.ice.infomaniak.ch/sweetfm-evreux-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Verneuil",
+            "json": "",
+            "audio": "http://sweetfm-aigle-verneuil.ice.infomaniak.ch/sweetfm-aigle-verneuil-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Sologne",
+            "json": "",
+            "audio": "https://sweetfm-sologne.ice.infomaniak.ch/sweetfm-sologne-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - La Ferté-Bernard / Saint-Calais",
+            "json": "",
+            "audio": "https://sweetfm-perche72.ice.infomaniak.ch/sweetfm-perche72-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - La Loupe / Nogent-Le Rotrou",
+            "json": "",
+            "audio": "https://sweetfm-perche28.ice.infomaniak.ch/sweetfm-perche28-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Le Mans",
+            "json": "",
+            "audio": "https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Lisieux",
+            "json": "",
+            "audio": "https://sweetfm-lisieux.ice.infomaniak.ch/sweetfm-lisieux-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Mamers",
+            "json": "",
+            "audio": "https://sweetfm-mamers.ice.infomaniak.ch/sweetfm-mamers-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Montoire sur le Loir / Vendôme",
+            "json": "",
+            "audio": "https://sweetfm-vendome-montoire.ice.infomaniak.ch/sweetfm-vendome-montoire-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Poitiers",
+            "json": "",
+            "audio": "https://sweetfm-poitiers.ice.infomaniak.ch/sweetfm-poitiers-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Pont-Audemer",
+            "json": "",
+            "audio": "https://sweetfm-pont-audemer.ice.infomaniak.ch/sweetfm-pont-audemer-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Rouen",
+            "json": "",
+            "audio": "https://sweetfm-rouen.ice.infomaniak.ch/sweetfm-rouen-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Sable sur Sarthe",
+            "json": "",
+            "audio": "https://sweetfm-sable-sur-sarthe.ice.infomaniak.ch/sweetfm-sable-sur-sarthe-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Tours",
+            "json": "",
+            "audio": "https://sweetfm-tours.ice.infomaniak.ch/sweetfm-tours-192.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/sweetfm.png",
+            "author": "Ma région, ma radio",
+            "song": "Sweet FM - Vernon",
+            "json": "",
+            "audio": "https://sweetfm-vernon.ice.infomaniak.ch/sweetfm-vernon-192.mp3"
+        }
+    ]
+}
