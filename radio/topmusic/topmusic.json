@@ -1,0 +1,67 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Colmar",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_colmar"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Haguenau",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_haguenau"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Mulhouse",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_mulhouse"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Sainte-Marie-aux-Mines",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_sainte_marie"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Sarrebourg",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_sarrebourg"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Saverne",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_saverne"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Schirmeck",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_schirmeck"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Sélestat",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_selestat"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/topmusic.png",
+            "author": "Infos, Pop, Non Stop",
+            "song": "Top Music - Strasbourg",
+            "json": "",
+            "audio": "https://sc.creacast.com/topmusic_strasbourg"
+        }
+    ]
+}
