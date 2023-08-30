@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/voltage.png",
+            "author": "La Radio Parisienne",
+            "song": "Voltage",
+            "json": "",
+            "audio": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3"
+        }
+    ]
+}
