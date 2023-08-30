@@ -1,0 +1,102 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Alençon",
+            "json": "",
+            "audio": "https://tendanceouest-alencon.ice.infomaniak.ch/alencon.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Argentan",
+            "json": "",
+            "audio": "https://tendanceouest-argentan.ice.infomaniak.ch/argentan.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Avranches",
+            "json": "",
+            "audio": "https://tendanceouest-sudmanche.ice.infomaniak.ch/avranches.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Bernay",
+            "json": "",
+            "audio": "https://tendanceouest-bernay.ice.infomaniak.ch/bernay.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Caen",
+            "json": "",
+            "audio": "https://tendanceouest-calvados.ice.infomaniak.ch/caen.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Cherbourg",
+            "json": "",
+            "audio": "https://tendanceouest-cotentin.ice.infomaniak.ch/cherbourg.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Dieppe",
+            "json": "",
+            "audio": "https://tendanceouest-dieppe.ice.infomaniak.ch/dieppe.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Fecamp",
+            "json": "",
+            "audio": "https://tendanceouest-paysdecaux.ice.infomaniak.ch/fecamp.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Flers",
+            "json": "",
+            "audio": "https://tendanceouest-bocage.ice.infomaniak.ch/flers.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - L'aigle",
+            "json": "",
+            "audio": "https://tendanceouest-laigle.ice.infomaniak.ch/laigle.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Le Havre",
+            "json": "",
+            "audio": "https://tendanceouest-lehavre.ice.infomaniak.ch/lehavre.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Mortagne-au-Perche",
+            "json": "",
+            "audio": "https://tendanceouest-mortagne.ice.infomaniak.ch/mortagne.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Rouen",
+            "json": "",
+            "audio": "https://tendanceouest-rouen.ice.infomaniak.ch/rouen.mp3"
+        },
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/tendanceouest.png",
+            "author": "Hits & News",
+            "song": "Tendance Ouest - Saint-Lo",
+            "json": "",
+            "audio": "https://tendanceouest-centremanche.ice.infomaniak.ch/saintlo.mp3"
+        }
+    ]
+}
