@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/virageradio.png",
+            "author": "L'électro Rock station",
+            "song": "Virage Radio",
+            "json": "",
+            "audio": "https://virageradio.ice.infomaniak.ch/virageradio-natio.mp3"
+        }
+    ]
+}
