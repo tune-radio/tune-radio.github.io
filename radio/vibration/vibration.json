@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/vibration.png",
+            "author": "Vibrons ensemble !",
+            "song": "Vibration",
+            "json": "",
+            "audio": "https://vibration.ice.infomaniak.ch/vibration-high.mp3"
+        }
+    ]
+}
