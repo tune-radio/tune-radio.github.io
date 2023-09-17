@@ -1,0 +1,144 @@
+{
+    "songs": [
+        {
+            "albumart": "https://lh3.googleusercontent.com/s-f1uqCANzxJR2R6Ogwfm7ZaFhFdelp07J8gFvd117MpGMCZ-mVTHnTc3YqE6w4zYrCDneuLPmC_zcw=w544-h544-l90-rj",
+            "author": "Jamaica",
+            "song": "Cross the Fader",
+            "json": "https://tune-radio.github.io/lyric/rock/Jamaica%20-%20Cross%20the%20Fader.json",
+            "audio": "https://tune-radio.github.io/rock/Jamaica%20-%20Cross%20the%20Fader.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/ogedr0DxkboIsf1b-L9-V_2AbCtHn9JnaMzCwCBVqssRdInzzwTSR8IVfUj3rcq-JPwcrVD-m8ZiQPW9Sg=w544-h544-l90-rj",
+            "author": "Jamaica",
+            "song": "Short and Entertaining",
+            "json": "https://tune-radio.github.io/lyric/rock/Jamaica%20-%20Short%20and%20Entertaining.json",
+            "audio": "https://tune-radio.github.io/rock/Jamaica%20-%20Short%20and%20Entertaining.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/MyxNaibWDGsxNYGst7bgaQFOeMJyE_QGvnIZ-6JZT_k94_AIEM-bDEQvkAoA-DPwWPsUdwVUu3X2-0Gp=w544-h544-s-l90-rj",
+            "author": "Johnny Hallyday",
+            "song": "Allumer le feu",
+            "json": "https://tune-radio.github.io/lyric/rock/Johnny%20Hallyday%20-%20Allumer%20le%20feu.json",
+            "audio": "https://tune-radio.github.io/rock/Johnny%20Hallyday%20-%20Allumer%20le%20feu.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/IWPaqJ-bEbwq2tQzbmwZAXwmUT_ZiF480-tznDYBvP2AEuL1QZ7Mz9rWQHgngUPvMc8BEDs6YnxnCTzq=w544-h544-s-l90-rj",
+            "author": "Johnny Hallyday",
+            "song": "L'envie",
+            "json": "https://tune-radio.github.io/lyric/rock/Johnny%20Hallyday%20-%20Lenvie.json",
+            "audio": "https://tune-radio.github.io/rock/Johnny%20Hallyday%20-%20Lenvie.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/75evsI-Mqt8HSD_W1eeXKixhg9Mu_J8OlpBOJ4s86zLZ22c_h7CPbySA95RPJTh6YnqZzTDPN5gFNsY=w544-h544-l90-rj",
+            "author": "The Clash",
+            "song": "Should I Stay or Should I Go (Remastered)",
+            "json": "https://tune-radio.github.io/lyric/rock/The%20Clash%20-%20Should%20I%20Stay%20or%20Should%20I%20Go%20(Remastered).json",
+            "audio": "https://tune-radio.github.io/rock/The%20Clash%20-%20Should%20I%20Stay%20or%20Should%20I%20Go%20(Remastered).ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w544-h544-l90-rj",
+            "author": "Nirvana",
+            "song": "Smells Like Teen Spirit",
+            "json": "https://tune-radio.github.io/lyric/rock/Nirvana%20-%20Smells%20Like%20Teen%20Spirit.json",
+            "audio": "https://tune-radio.github.io/rock/Nirvana%20-%20Smells%20Like%20Teen%20Spirit.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w544-h544-l90-rj",
+            "author": "Nirvana",
+            "song": "Lithium",
+            "json": "https://tune-radio.github.io/lyric/rock/Nirvana%20-%20Lithium.json",
+            "audio": "https://tune-radio.github.io/rock/Nirvana%20-%20Lithium.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/xvcZZr4HmXyoFTZR_70HAlcZSlIo9w0hLzqqvhpnQWk3hoihzsUJc1bcB-j3OLtXccfU5eBNgfQzsxfL=w544-h544-l90-rj",
+            "author": "Téléphone",
+            "song": "ça (C'est vraiment toi) (Remasterisé)",
+            "json": "https://tune-radio.github.io/lyric/rock/T%C3%A9l%C3%A9phone%20-%20%C3%87a%20(cest%20vraiment%20toi)%20(Remasteris%C3%A9).json",
+            "audio": "https://tune-radio.github.io/rock/T%C3%A9l%C3%A9phone%20-%20%C3%87a%20(cest%20vraiment%20toi)%20(Remasteris%C3%A9).ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w544-h544-l90-rj",
+            "author": "Queen",
+            "song": "Another One Bites The Dust (Remasterisé)",
+            "json": "https://tune-radio.github.io/lyric/rock/Queen%20-%20Another%20One%20Bites%20The%20Dust%20(Remastered).json",
+            "audio": "https://tune-radio.github.io/rock/Queen%20-%20Another%20One%20Bites%20The%20Dust%20(Remastered).ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/DA2ffDOXjJVM9vZaY7ScV-TU--p40kHko1Df5Skp7KVIYUvRlv5riP0oKtGGtpjjnGhmbNS2Zi61Ei1a=w544-h544-l90-rj",
+            "author": "Machine Gun Kelly ft Yungblud",
+            "song": "I Think I'm OKAY",
+            "json": "https://tune-radio.github.io/lyric/rock/Machine%20Gun%20Kelly%20ft%20Yungblud%20-%20I%20Think%20Im%20OKAY.json",
+            "audio": "https://tune-radio.github.io/rock/Machine%20Gun%20Kelly%20ft%20Yungblud%20-%20I%20Think%20Im%20OKAY.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/FlYP0nmUw5OfcUK4aP5MPetNdb_kiKp5nWrFn6_FwLG6Pm-asiQArUmS0QJ8m2dSjuqVLzIr2s16MwGORQ=w544-h544-l90-rj",
+            "author": "Maneskin",
+            "song": "The Loneliest",
+            "json": "https://tune-radio.github.io/lyric/rock/Maneskin%20-%20The%20Loneliest.json",
+            "audio": "https://tune-radio.github.io/rock/Maneskin%20-%20The%20Loneliest.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/FlYP0nmUw5OfcUK4aP5MPetNdb_kiKp5nWrFn6_FwLG6Pm-asiQArUmS0QJ8m2dSjuqVLzIr2s16MwGORQ=w544-h544-l90-rj",
+            "author": "Maneskin",
+            "song": "Baby Said",
+            "json": "https://tune-radio.github.io/lyric/rock/Maneskin%20-%20Baby%20Said.json",
+            "audio": "https://tune-radio.github.io/rock/Maneskin%20-%20Baby%20Said.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w544-h544-l90-rj",
+            "author": "Imagine Dragons",
+            "song": "Believer",
+            "json": "https://tune-radio.github.io/lyric/rock/Imagine%20Dragons%20-%20Believer.json",
+            "audio": "https://tune-radio.github.io/rock/Imagine%20Dragons%20-%20Believer.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm=w544-h544-l90-rj",
+            "author": "Imagine Dragons",
+            "song": "Natural",
+            "json": "https://tune-radio.github.io/lyric/rock/Imagine%20Dragons%20-%20Natural.json",
+            "audio": "https://tune-radio.github.io/rock/Imagine%20Dragons%20-%20Natural.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb=w544-h544-l90-rj",
+            "author": "Imagine Dragons",
+            "song": "Radioactive",
+            "json": "https://tune-radio.github.io/lyric/rock/Imagine%20Dragons%20-%20Radioactive.json",
+            "audio": "https://tune-radio.github.io/rock/Imagine%20Dragons%20-%20Radioactive.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/KUdgKzx-QYzkkMuwQizAtp3zeh5DgrLnAOWnuNSaOqZVcStU6W-4JxUHcKbjHGiZubgHzWCknHBbbWc=w544-h544-l90-rj",
+            "author": "Linkin Park",
+            "song": "Lost",
+            "json": "https://tune-radio.github.io/lyric/rock/Linkin%20Park%20-%20Lost.json",
+            "audio": "https://tune-radio.github.io/rock/Linkin%20Park%20-%20Lost.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/yf9zY5DeIgh1S0retqilxx_UM9o_-st2SxbJXRfUxbQjOXtUA79DTjJu9hGj6YMgywAn2l6rBRkWBizS=w544-h544-l90-rj",
+            "author": "The Rolling Stones",
+            "song": "Start Me Up",
+            "json": "https://tune-radio.github.io/lyric/rock/The%20Rolling%20Stone%20-%20Start%20Me%20Up%20(Remastered).json",
+            "audio": "https://tune-radio.github.io/rock/The%20Rolling%20Stone%20-%20Start%20Me%20Up%20(Remastered).ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/DMAF_TwlAenTjYFFEfZdRjGQnxE487Mqwrvi2RNrRZCxEkhUxNExWut0ffkxrZ-UWh-xZYg3Yew5coM=w544-h544-l90-rj",
+            "author": "Survivor",
+            "song": "Eyes of the Tiger",
+            "json": "https://tune-radio.github.io/lyric/rock/Survivor%20-%20Eye%20of%20the%20Tiger.json",
+            "audio": "https://tune-radio.github.io/rock/Survivor%20-%20Eye%20of%20the%20Tiger.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/fJUAt8fNSPSXLzFFll7dA-0usJM-4I1N6-x6N1w5M-SNsEcvwM0Wp81bc838ahL6L6DRULeNzB6ioNqg=w544-h544-l90-rj",
+            "author": "Bruce Springsteen",
+            "song": "Born in the U.S.A.",
+            "json": "https://tune-radio.github.io/lyric/rock/Bruce%20Springsteen%20-%20Born%20in%20the%20U.S.json",
+            "audio": "https://tune-radio.github.io/rock/Bruce%20Springsteen%20-%20Born%20in%20the%20U.S.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/_CStcQs_T5Fd2pBm88cOLsnaoUXeESyk6r5NXZs8868g14pcikDXHVahYNoQM_B6OtH1KP0xob3TUaxmEw=w544-h544-l90-rj",
+            "author": "Elvis Presley",
+            "song": "Burning Love",
+            "json": "https://tune-radio.github.io/lyric/rock/Elvis%20Presley%20-%20Burning%20Love.json",
+            "audio": "https://tune-radio.github.io/rock/Elvis%20Presley%20-%20Burning%20Love.ogg"
+        }
+    ]
+}
