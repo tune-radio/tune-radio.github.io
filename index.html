@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes"><meta data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="Léo.t88"><meta name="theme-color" content="#70b8ff"/>
+    <title>Tune Radio - Vos Radio, Webradio et Musiques gratuitement</title>
+    <meta name="description" content="Écouter vos radios préférées et les titres du moment où vous voulez et quand vous voulez sans aucune publicité"/>
+    <meta name="keywords" content="radio, musiques, music, en ligne, tune, radio, musique, radios, webradio, streaming">
+    <meta name="title" content="Tune Radio">
+    <meta property="og:title" content="Tune Radio">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tune-radio.github.io">
+    <meta property="og:description" content="Écouter vos radios préférées et les titres du moment où vous voulez et quand vous voulez sans aucune publicité">
+
+    <script src="https://leo-t-88.github.io/icon.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./mobile.css">
+    <link rel="icon" type="image/png" href="./favicon.png"/>
+
+    <header>
+        <menu id="stmartmenu">
+            <a href="./"><img src="./favicon.png"><h2>Tune Radio</h2></a>
+            <input type="checkbox" id="mbl" role="button">
+              <ul>
+                  <li class="mobiledis"><a> </a></li>
+                  <li><a> </a></li>
+                  <li><a href="./#radio"><i class="far fa-broadcast-tower"></i><p>Radios</p></a></li>
+                  <li><a href="./#music"><i class="far fa-music"></i><p>Musiques</p></a></li>
+                  <li><a class="select homec" onclick="homepage();"><i class="fa fa-home"></i><p>Accueil</p></a></li>
+                </li>
+              </ul>
+                <label for="mbl">
+                  <i class="fas fa-bars" id="bar" onclick="menu()"></i>
+                  <i class="fas fa-times" id="close" onclick="menu2()"></i>
+                </label>
+        </menu>
+        <div class="rightmenu">
+          <center class="appd">
+            <img src="./favicon.png">
+            <h3>Appli Tune Music</h3>
+            <a href="#" class="install-link">Soon... <i class="far fa-arrow-alt-to-bottom"></i></a>
+            <a href="./application"><p>En savoir plus ?</p></a>
+          </center>
+          <li><a href="https://help-tune-radio.blogspot.com" target="_blank"><i class="fas fa-info-circle"></i>Aide</a></li>
+          <li onclick="addpage();"><i class="fas fa-plus"></i>Ajouter</li>
+          <li><a href="https://drive.google.com/drive/folders/1Us0zWAPg9g5aXXRQYi7FMTa9j3mNM3zQ?usp=drive_link" target="_blank"><i class="fas fa-arrow-alt-to-bottom"></i>Télécharger</a></li>
+          <li onclick="settings();"><i class="fas fa-cog"></i>Paramètres</li>
+        </div>
+        </header>
+</head>
+<body>
+<noscript><strong>Javascript est désactivé !</strong> Certains projets et fonctionnalités necessitent Javascript pour fonctionner. Veuillez l'activer dans les paramètres de votre naviguateur.</noscript>
+<div class="addpage">
+  <div>
+    <center>
+      <div class="addbox radbox">
+        <h1>Ajouter une Radio</h1>
+        <i class="fad fa-radio" style="--fa-secondary-color: #8ed2d9; --fa-secondary-opacity: 0.8;"></i>
+        <a href="https://forms.gle/5o7pPvVaFJT8UxcKA" target="_blank"><button>Envoyer une demande</button></a>
+      </div>
+      <div class="addbox musbox">
+        <h1>Ajouter des titres</h1>
+        <i class="far fa-music" style="color: #d996dd; opacity: 0.8;"></i>
+        <a href="https://forms.gle/UgyxFKGcmyKW7KNm7" target="_blank"><button>Envoyer une demande</button></a>
+      </div>
+    </center>
+  </div>
+</div>
+<div class="settings">
+  <center><h1><i class="fas fa-cog"></i> Paramètres</h1></center>
+  <h2>⬥ Personnalisation :</h2>
+  <iframe src="https://leo-t-88.github.io/tools/color-picker/?source=tunemusic" class="colorpicker"></iframe>
+  <h3>- Thème :</h3>
+  <div class="wrapper">
+    <input type="checkbox" id="themecheck">
+    <label for="themecheck" class="toggle">
+      <span class="toggle-button">
+        <span class="crater crater-1"></span>
+        <span class="crater crater-2"></span>
+        <span class="crater crater-3"></span>   
+        <span class="crater crater-4"></span>
+        <span class="crater crater-5"></span>
+        <span class="crater crater-6"></span>
+        <span class="crater crater-7"></span>
+      </span>
+      <span class="star star-1"></span>
+      <span class="star star-2"></span>
+      <span class="star star-3"></span>
+      <span class="star star-4"></span>
+      <span class="star star-5"></span>
+      <span class="star star-6"></span>
+      <span class="star star-7"></span>
+    </label>
+  </div>
+  <h3>- Couleur d'accentuation :</h3>
+  <input type="text" placeholder="Code couleur HEX ou RVB">
+  <h2>⬥ Données :</h2>
+</div>
+
+<iframe name="player" class="player"></iframe>
+<div>
+  <div onclick="fullplayer()" style="cursor: pointer;"><i class="fas fa-expand fullscreen"></i></div>
+  <div onclick="minplayer()" style="cursor: pointer;"><i class="fas fa-compress midscreen"></i></div>
+  <div onclick="document.querySelector('.sharepopup').style.display = 'block';" style="cursor: pointer;"><i class="far fa-share-alt"></i></div>
+</div>
+<div class="sharepopup">
+  <h1>Partager</h1>
+  <i class="fas fa-times" onclick="document.querySelector('.sharepopup').style.display = 'none';" title="Fermer"></i>
+  <div class="lf">
+    <i class="far fa-link" onclick="document.querySelector('.sharepopup').style.height = '150px'; document.getElementById('framesharing').style.display = 'none'; document.getElementById('urlsharing').style.display = 'block';" title="Partager le lien"></i>
+    <i class="far fa-code" onclick="document.querySelector('.sharepopup').style.height = '250px'; document.getElementById('framesharing').style.display = 'block'; document.getElementById('urlsharing').style.display = 'none';" title="Intègrer le player"></i>
+  </div>
+  <div id="framesharing">
+    <input type="text" disabled value="" id="frameshare">
+    <iframe height="90px;" width="420px" style="border-radius: 10px; border: none;" id="frameprev"></iframe>
+    <div class="darkc" onclick="document.getElementById('frameprev').style.backgroundColor = '#000000'" title="Preview thème sombre"></div>
+    <div class="lightc" onclick="document.getElementById('frameprev').style.backgroundColor = '#ffffff'" title="Preview thème clair"></div>
+  </div>
+  <div id="urlsharing">
+    <input type="text" disabled value="" id="urlshare">
+  </div>
+</div>
+
+<div class="bgcolor"></div>
+<section id="music">
+  <h1>Découvrez des musiques</h1>
+  <div class="musicgrid">
+    <div class="musicbox"><img src="./assets/playlists/hits.png"><a onclick="playlist('hits')"><img src="./playbtn.png"></a></div>
+    <div class="musicbox"><img src="./assets/playlists/pop.png"><a onclick="playlist('pop')"><img src="./playbtn.png"></a></div>
+    <div class="musicbox"><img src="./assets/playlists/rap.png"><a onclick="playlist('hiphop')"><img src="./playbtn.png"></a></div>
+    <div class="musicbox"><img src="./assets/playlists/rock.png"><a onclick="playlist('rock')"><img src="./playbtn.png"></a></div>
+    <div class="musicbox"><img src="./assets/playlists/electro.png"><a onclick="playlist('electro')"><img src="./playbtn.png"></a></div>
+    <div class="musicbox"><img src="./assets/playlists/kpop.png"><a onclick="playlist('kpop')"><img src="./playbtn.png"></a></div>
+    <div class="musicbox"><img src="./assets/playlists/country.png"><a onclick="playlist('country')"><img src="./playbtn.png"></a></div>
+  </div>
+</section>
+<section id="radio">
+  <h1>Radios</h1>
+  <div class="filtermenu">
+    <input type="text" id="searchInput" placeholder="Rechercher une radio">
+    <select id="filterloca">
+      <option value="all">Toutes les radios</option>
+      <option value="fr">Soon...</option>
+    </select>
+    <div class="filtertype">
+      <input type="checkbox" id="national" class="filter-checkbox">
+      <label for="national" class="filter-tag" onclick="radiofilter()">
+        <span class="filter-tag-name">National</span>
+        <span class="filter-tag-icon"></span>
+      </label>
+      <input type="checkbox" id="regional" class="filter-checkbox">
+      <label for="regional" class="filter-tag" onclick="radiofilter()">
+        <span class="filter-tag-name">Régional</span>
+        <span class="filter-tag-icon"></span>
+      </label>
+      <input type="checkbox" id="webradio" class="filter-checkbox">
+      <label for="webradio" class="filter-tag" onclick="radiofilter()">
+        <span class="filter-tag-name">Webradio</span>
+        <span class="filter-tag-icon"></span>
+      </label>
+    </div>
+  </div>
+  <div class="fr">
+    <div class="radiogrid">
+      <div class="r rb 100%radio"><img src="./assets/radio/100radio.png"><a onclick="playradio('100radio');"><img src="./playbtn.png"></a><h2>100% radio</h2></div>
+      <div class="r rb adofm"><img src="./assets/radio/adofm.png"><a onclick="playradio('adofm');"><img src="./playbtn.png"></a><h2>Ado FM</h2></div>
+      <div class="r rb alouette"><img src="./assets/radio/alouette.png"><a onclick="playradio('alouette');"><img src="./playbtn.png"></a><h2>Alouette</h2></div>
+      <div class="r rb alpes1"><img src="./assets/radio/alpes1.png"><a onclick="playradio('alpes1');"><img src="./playbtn.png"></a><h2>Alpes1</h2></div>
+      <div class="r rb altafrequenza"><img src="./assets/radio/altafrequenza.png"><a onclick="playradio('altafrequenza');"><img src="./playbtn.png"></a><h2>Alta Frequenza</h2></div>
+      <div class="n rb beurfm"><img src="./assets/radio/beurfm.png"><a onclick="playradio('beurfm');"><img src="./playbtn.png"></a><h2>BeurFM</h2></div>
+      <div class="n rb bfmbusiness"><img src="./assets/radio/bfmbusiness.png"><a onclick="playradio('bfmbusiness');"><img src="./playbtn.png"></a><h2>BFM Business</h2></div>
+      <div class="r rb blackbox"><img src="./assets/radio/blackbox.png"><a onclick="playradio('blackbox');"><img src="./playbtn.png"></a><h2>Black Box</h2></div>
+      <div class="r rb bretagne5"><img src="./assets/radio/bretagne5.png"><a onclick="playradio('bretagne5');"><img src="./playbtn.png"></a><h2>Bretagne 5</h2></div>
+      <div class="r rb chantefrance"><img src="./assets/radio/chantefrance.png"><a onclick="playradio('chantefrance');"><img src="./playbtn.png"></a><h2>Chante France</h2></div>
+      <div class="n rb chériefm"><img src="./assets/radio/cheriefm.png"><a onclick="playradio('cheriefm');"><img src="./playbtn.png"></a><h2>Chérie FM</h2></div>
+      <div class="w rb cuberadio"><img src="./assets/radio/cuberadio.png"><a onclick="playradio('cuberadio');"><img src="./playbtn.png"></a><h2>Cuberadio</h2></div>
+      <div class="n rb europe1"><img src="./assets/radio/europe1.png"><a onclick="playradio('europe1');"><img src="./playbtn.png"></a><h2>Europe 1</h2></div>
+      <div class="n rb europe2 virginradio"><img src="./assets/radio/europe2.png"><a onclick="playradio('europe2');"><img src="./playbtn.png"></a><h2>Europe 2 (Virgin Radio)</h2></div>
+      <div class="r rb evasion"><img src="./assets/radio/evasion.png"><a onclick="playradio('evasion');"><img src="./playbtn.png"></a><h2>Evasion</h2></div>
+      <div class="n rb fip"><img src="./assets/radio/fip.png"><a onclick="playradio('fip');"><img src="./playbtn.png"></a><h2>Fip</h2></div>
+      <div class="r rb forum"><img src="./assets/radio/forum.png"><a onclick="playradio('forum');"><img src="./playbtn.png"></a><h2>Forum</h2></div>
+      <div class="n rb francebleu"><img src="./assets/radio/francebleu.png"><a onclick="playradio('francebleu');"><img src="./playbtn.png"></a><h2>France Bleu</h2></div>
+      <div class="n rb franceculture"><img src="./assets/radio/franceculture.png"><a onclick="playradio('franceculture');"><img src="./playbtn.png"></a><h2>France Culture</h2></div>
+      <div class="n rb franceinfo"><img src="./assets/radio/franceinfo.png"><a onclick="playradio('franceinfo');"><img src="./playbtn.png"></a><h2>France Info</h2></div>
+      <div class="n rb franceinter"><img src="./assets/radio/franceinter.png"><a onclick="playradio('franceinter');"><img src="./playbtn.png"></a><h2>France Inter</h2></div>
+      <div class="n rb francemaghreb2"><img src="./assets/radio/francemaghreb2.png"><a onclick="playradio('francemaghreb2');"><img src="./playbtn.png"></a><h2>France Maghreb 2</h2></div>
+      <div class="n rb francemusique"><img src="./assets/radio/francemusique.png"><a onclick="playradio('francemusique');"><img src="./playbtn.png"></a><h2>France Musique</h2></div>
+      <div class="r rb frequenceplus"><img src="./assets/radio/frequenceplus.png"><a onclick="playradio('frequenceplus');"><img src="./playbtn.png"></a><h2>Frequence Plus</h2></div>
+      <div class="n rb funradio"><img src="./assets/radio/funradio.png"><a onclick="playradio('funradio');"><img src="./playbtn.png"></a><h2>Fun Radio</h2></div>
+      <div class="r rb fusionfm"><img src="./assets/radio/fusionfm.png"><a onclick="playradio('fusionfm');"><img src="./playbtn.png"></a><h2>Fusion FM</h2></div>
+      <div class="r rb hitwest"><img src="./assets/radio/hitwest.png"><a onclick="playradio('hitwest');"><img src="./playbtn.png"></a><h2>Hit West</h2></div>
+      <div class="r rb jordannefm"><img src="./assets/radio/jordannefm.png"><a onclick="playradio('jordannefm');"><img src="./playbtn.png"></a><h2>Jordanne FM</h2></div>
+      <div class="r rb kissfm"><img src="./assets/radio/kissfm.png"><a onclick="playradio('kissfm');"><img src="./playbtn.png"></a><h2>Kiss FM</h2></div>
+      <div class="r rb laradioplus"><img src="./assets/radio/laradioplus.png"><a onclick="playradio('laradioplus');"><img src="./playbtn.png"></a><h2>La Radio Plus</h2></div>
+      <div class="n rb latina"><img src="./assets/radio/latina.png"><a onclick="playradio('latina');"><img src="./playbtn.png"></a><h2>Latina</h2></div>
+      <div class="r rb magnumlaradio"><img src="./assets/radio/magnumlaradio.png"><a onclick="playradio('magnumlaradio');"><img src="./playbtn.png"></a><h2>Magnum la radio</h2></div>
+      <div class="r rb metropolys"><img src="./assets/radio/metropolys.png"><a onclick="playradio('metropolys');"><img src="./playbtn.png"></a><h2>Metropolys</h2></div>
+      <div class="r rb mistralfm"><img src="./assets/radio/mistralfm.png"><a onclick="playradio('mistralfm');"><img src="./playbtn.png"></a><h2>Mistral FM</h2></div>
+      <div class="r rb mixxfm"><img src="./assets/radio/mixxfm.png"><a onclick="playradio('mixxfm');"><img src="./playbtn.png"></a><h2>Mixx FM</h2></div>
+      <div class="r rb montagnefm"><img src="./assets/radio/montagnefm.png"><a onclick="playradio('montagnefm');"><img src="./playbtn.png"></a><h2>Montagne FM</h2></div>
+      <div class="n rb mouv"><img src="./assets/radio/mouv.png"><a onclick="playradio('mouv');"><img src="./playbtn.png"></a><h2>Mouv'</h2></div>
+      <div class="n rb mradio"><img src="./assets/radio/mradio.png"><a onclick="playradio('mradio');"><img src="./playbtn.png"></a><h2>M Radio</h2></div>
+      <div class="w rb ngradio"><img src="./assets/radio/ngradio.png"><a onclick="playradio('ngradio');"><img src="./playbtn.png"></a><h2>NG Radio</h2></div>
+      <div class="n rb nostalgie"><img src="./assets/radio/nostalgie.png"><a onclick="playradio('nostalgie');"><img src="./playbtn.png"></a><h2>Nostalgie</h2></div>
+      <div class="r rb nradio"><img src="./assets/radio/nradio.png"><a onclick="playradio('nradio');"><img src="./playbtn.png"></a><h2>N'Radio</h2></div>
+      <div class="n rb nrj"><img src="./assets/radio/nrj.png"><a onclick="playradio('nrj');"><img src="./playbtn.png"></a><h2>NRJ</h2></div>
+      <div class="r rb oceanefm"><img src="./assets/radio/oceanefm.png"><a onclick="playradio('oceanefm');"><img src="./playbtn.png"></a><h2>Oceane FM</h2></div>
+      <div class="r rb odsradio"><img src="./assets/radio/odsradio.png"><a onclick="playradio('odsradio');"><img src="./playbtn.png"></a><h2>Ods Radio</h2></div>
+      <div class="n rb ouifm"><img src="./assets/radio/ouifm.png"><a onclick="playradio('ouifm');"><img src="./playbtn.png"></a><h2>Oüi FM</h2></div>
+      <div class="r rb oxygene"><img src="./assets/radio/oxygene.png"><a onclick="playradio('oxygene');"><img src="./playbtn.png"></a><h2>Oxygene</h2></div>
+      <div class="n rb pharefm"><img src="./assets/radio/pharefm.png"><a onclick="playradio('pharefm');"><img src="./playbtn.png"></a><h2>Phare FM</h2></div>
+      <div class="r rb pyreneesfm"><img src="./assets/radio/pyreneesfm.png"><a onclick="playradio('pyreneesfm');"><img src="./playbtn.png"></a><h2>Pyrenées FM</h2></div>
+      <div class="r rb radio6"><img src="./assets/radio/radio6.png"><a onclick="playradio('radio6');"><img src="./playbtn.png"></a><h2>Radio 6</h2></div>
+      <div class="r rb radiocaroline"><img src="./assets/radio/radiocaroline.png"><a onclick="playradio('radiocaroline');"><img src="./playbtn.png"></a><h2>Radio Caroline</h2></div>
+      <div class="n rb radioclassique"><img src="./assets/radio/radioclassique.png"><a onclick="playradio('radioclassique');"><img src="./playbtn.png"></a><h2>Radio Classique</h2></div>
+      <div class="r rb radiocontact"><img src="./assets/radio/radiocontact.png"><a onclick="playradio('radiocontact');"><img src="./playbtn.png"></a><h2>Radio Contact</h2></div>
+      <div class="r rb radiocristal"><img src="./assets/radio/radiocristal.png"><a onclick="playradio('radiocristal');"><img src="./playbtn.png"></a><h2>Radio Cristal</h2></div>
+      <div class="n rb radiocrooner"><img src="./assets/radio/radiocrooner.png"><a onclick="playradio('radiocrooner');"><img src="./playbtn.png"></a><h2>Radio Crooner</h2></div>
+      <div class="r rb radiodreyeckland"><img src="./assets/radio/radiodreyeckland.png"><a onclick="playradio('radiodreyeckland');"><img src="./playbtn.png"></a><h2>Radio Dreyeckland</h2></div>
+      <div class="r rb radioespace"><img src="./assets/radio/radioespace.png"><a onclick="playradio('radioespace');"><img src="./playbtn.png"></a><h2>Radio Espace</h2></div>
+      <div class="n rb radiofg"><img src="./assets/radio/radiofg.png"><a onclick="playradio('radiofg');"><img src="./playbtn.png"></a><h2>Radio FG</h2></div>
+      <div class="r rb radioisa"><img src="./assets/radio/radioisa.png"><a onclick="playradio('radioisa');"><img src="./playbtn.png"></a><h2>Radio ISA</h2></div>
+      <div class="n rb radionova"><img src="./assets/radio/radionova.png"><a onclick="playradio('radionova');"><img src="./playbtn.png"></a><h2>Radio Nova</h2></div>
+      <div class="r rb radionumero1"><img src="./assets/radio/radionumero1.png"><a onclick="playradio('radionumero1');"><img src="./playbtn.png"></a><h2>Radio Numéro 1</h2></div>
+      <div class="r rb radiorva"><img src="./assets/radio/radiorva.png"><a onclick="playradio('radiorva');"><img src="./playbtn.png"></a><h2>Radio RVA</h2></div>
+      <div class="r rb radiostarsud"><img src="./assets/radio/radiostarsud.png"><a onclick="playradio('radiostarsud');"><img src="./playbtn.png"></a><h2>Radio Star Sud</h2></div>
+      <div class="n rb rfm"><img src="./assets/radio/rfm.png"><a onclick="playradio('rfm');"><img src="./playbtn.png"></a><h2>RFM</h2></div>
+      <div class="n rb rire&chansons"><img src="./assets/radio/rirechansons.png"><a onclick="playradio('rirechansons');"><img src="./playbtn.png"></a><h2>Rire & chansons</h2></div>
+      <div class="n rb rmc"><img src="./assets/radio/rmc.png"><a onclick="playradio('rmc');"><img src="./playbtn.png"></a><h2>RMC</h2></div>
+      <div class="n rb rtl"><img src="./assets/radio/rtl.png"><a onclick="playradio('rtl');"><img src="./playbtn.png"></a><h2>RTL</h2></div>
+      <div class="n rb rtl2"><img src="./assets/radio/rtl2.png"><a onclick="playradio('rtl2');"><img src="./playbtn.png"></a><h2>RTL2</h2></div>
+      <div class="n rb rts"><img src="./assets/radio/rts.png"><a onclick="playradio('rts');"><img src="./playbtn.png"></a><h2>RTS</h2></div>
+      <div class="n rb skyrock"><img src="./assets/radio/skyrock.png"><a onclick="playradio('skyrock');"><img src="./playbtn.png"></a><h2>Skyrock</h2></div>
+      <div class="n rb sudradio"><img src="./assets/radio/sudradio.png"><a onclick="playradio('sudradio');"><img src="./playbtn.png"></a><h2>Sud Radio</h2></div>
+      <div class="r rb sweetfm"><img src="./assets/radio/sweetfm.png"><a onclick="playradio('sweetfm');"><img src="./playbtn.png"></a><h2>Sweet FM</h2></div>
+      <div class="r rb tendanceouest"><img src="./assets/radio/tendanceouest.png"><a onclick="playradio('tendanceouest');"><img src="./playbtn.png"></a><h2>Tendance Ouest</h2></div>
+      <div class="r rb topmusic"><img src="./assets/radio/topmusic.png"><a onclick="playradio('topmusic');"><img src="./playbtn.png"></a><h2>Top Music</h2></div>
+      <div class="r rb vibration"><img src="./assets/radio/vibration.png"><a onclick="playradio('vibration');"><img src="./playbtn.png"></a><h2>Vibration</h2></div>
+      <div class="r rb virageradio"><img src="./assets/radio/virageradio.png"><a onclick="playradio('virageradio');"><img src="./playbtn.png"></a><h2>Virage Radio</h2></div>
+      <div class="r rb voltage"><img src="./assets/radio/voltage.png"><a onclick="playradio('voltage');"><img src="./playbtn.png"></a><h2>Voltage</h2></div>
+      <div class="rb vosgesfm"><img src="./assets/radio/vosgesfm.png"><a onclick="playradio('vosgesfm');"><img src="./playbtn.png"></a><h2>Vosges FM</h2></div>
+      <div class="r rb witfm"><img src="./assets/radio/witfm.png"><a onclick="playradio('witfm');"><img src="./playbtn.png"></a><h2>Wit FM</h2></div>
+    </div>
+  </div>
+</section>
+<div class="bottomcolor"></div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.3.0/tinycolor.min.js'></script>
+<script src="./main.js"></script>
+<script src="./settings.js"></script>
+</body>
+</html>
