@@ -30,10 +30,12 @@ function switchTheme(e) {
     if (e.target.checked) {
         document.documentElement.setAttribute('data-theme', 'dark')
         localStorage.setItem('theme', 'dark')
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");
         console.log(localStorage.getItem('theme'));
     } else {
         document.documentElement.setAttribute('data-theme', 'light')
         localStorage.setItem('theme', 'light')
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", "#ffffff");
         console.log(localStorage.getItem('theme'));
     }
 }
