@@ -6,18 +6,22 @@ switchBtn.addEventListener('change', switchTheme)
 if (defaultTheme.matches) {
     if (currentTheme === 'light') {
         document.documentElement.setAttribute('data-theme', 'light');
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", "#ffffff");
         switchBtn.checked = false;
     } else if (currentTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");
         switchBtn.checked = true;
     }
 
 } else {
     if (currentTheme === 'light') {
         document.documentElement.setAttribute('data-theme', 'light');
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", "#ffffff");
         switchBtn.checked = false;
     } else if (currentTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");
         switchBtn.checked = true;
     }
 }
