@@ -149,13 +149,13 @@ function playradio(url){
 }
 
 const url = new URL(window.location.href);
-var filename = url.searchParams.get("filename");
+var share = url.searchParams.get("share");
 
-if (filename === "top" || filename === "pop" || filename === "hiphop" || filename === "rock" || filename === "electro" || filename === "kpop" || filename === "country"){
-  playlist(filename);
-}else if (filename === null){
+if (share === "hits" || share === "pop" || share === "hiphop" || share === "rock" || share === "electro" || share === "kpop" || share === "country"){
+  playlist(share);
+}else if (share === null){
 }else{
-  playradio(filename);
+  playradio(share);
 }
 
 function urlcopy(){
