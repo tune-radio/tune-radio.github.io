@@ -1,0 +1,144 @@
+{
+    "songs": [
+        {
+            "albumart": "https://lh3.googleusercontent.com/NzpxsXd1zYI-wjKRtdOlS3XCJK7mslbm2UFiU83vg4Vq_S-gQAF5otMl94-HzVmLuovwXdGzBeB29Uw=w544-h544-l90-rj",
+            "author": "Imagine Dragons",
+            "song": "Waves",
+            "json": "https://tune-radio.github.io/lyric/hits/Imagine%20Dragons%20-%20Waves.json",
+            "audio": "https://tune-radio.github.io/hits/Imagine%20Dragons%20-%20Waves.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/i2mR7aqNEbN3ZMrJvhtqip1__UtsDAJEVvsxPMiQNOmkUlp1wQqF7F0Tcx-aMEn1yxXT3PvgtkmdHJE0=w544-h544-l90-rj",
+            "author": "Bigflo et Oli",
+            "song": "Dernière",
+            "json": "https://tune-radio.github.io/lyric/hits/Bigflo%20et%20Oli%20-%20Derni%C3%A8re.json",
+            "audio": "https://tune-radio.github.io/hits/Bigflo%20et%20Oli%20-%20Derni%C3%A8re.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/eDoCyTd6v5P0PWD-1Vua1dTRGaeEIyroErBgAG56p0qg0dQvnvqS35Y5ewGGamPsn404LI8ZXQNZHqxx=w544-h544-l90-rj",
+            "author": "La petite culotte",
+            "song": "La goffa Lolita",
+            "json": "https://tune-radio.github.io/lyric/hits/La%20Petite%20Culotte%20-%20La%20goffa%20Lolita.json",
+            "audio": "https://tune-radio.github.io/hits/La%20Petite%20Culotte%20-%20La%20goffa%20Lolita.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/8K0_sKdAQ1PCgGNdrgRAgpwqZ7UC-Id7ah1cKZlrtdldRLdQJAJlSRj_u_DGmr2xRkUvDINMQu-zvTATPA=w544-h544-l90-rj",
+            "author": "Nuit Incolore",
+            "song": "Dépassé",
+            "json": "https://tune-radio.github.io/lyric/hits/Nuit%20Incolore%20-%20D%C3%A9pass%C3%A9.json",
+            "audio": "https://tune-radio.github.io/hits/Nuit%20Incolore%20-%20D%C3%A9pass%C3%A9.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/JYdNiNuPjx77IinIvYuAkTwKMj3-S4zedoQbX57E9NAfta-3chsSp-zwIMZO9BaInVA8_k-GzRfoa7pR=w544-h544-l90-rj",
+            "author": "Dua Lipa",
+            "song": "Dance The Night",
+            "json": "https://tune-radio.github.io/lyric/hits/Dua%20lipa%20-%20Dance%20The%20Night.json",
+            "audio": "https://tune-radio.github.io/hits/Dua%20lipa%20-%20Dance%20The%20Night.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/ecCO4UBkeG7U5GBpUykPoay5kL2xOOjrHb8kBi1-DZT9OlGXMbBpoJRJxZOu1W-x-__H9WHEPwiF8rM=w544-h544-l90-rj",
+            "author": "Loreen",
+            "song": "Tattoo",
+            "json": "https://tune-radio.github.io/lyric/hits/Loreen%20-%20Tattoo.json",
+            "audio": "https://tune-radio.github.io/hits/Loreen%20-%20Tattoo.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/1tUyXr_VeRWZ-nKbi1c6pFNtXyqT-TKcVC_Z48jNaM3SlL6c2dm9cCQCDDhpYj7N-eV1RTlnqRsrmT1n=w544-h544-l90-rj",
+            "author": "Pierre de Maere",
+            "song": "Mercredi",
+            "json": "https://tune-radio.github.io/lyric/hits/Pierre%20de%20Maere%20-%20Mercredi.json",
+            "audio": "https://tune-radio.github.io/hits/Pierre%20de%20Maere%20-%20Mercredi.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/K8O6HMw4WVcnlUucux1q_KnMAxwywsnkey31E-GODK__y4nKI6hj6aifSQSUnsrqvKNnKPBzfdqpO6O5Bw=w544-h544-l90-rj",
+            "author": "Louane",
+            "song": "Pardonne-moi",
+            "json": "https://tune-radio.github.io/lyric/hits/Louane%20-%20Pardonne%20moi.json",
+            "audio": "https://tune-radio.github.io/hits/Louane%20-%20Pardonne%20moi.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/bHiIxDx9VPQ29HLCaiUg_4I3Hj8_QAfCD7b_TIXoHMkzfMZczyiWi7x3j12mMg_vvUoHKdO-LO9b72f7=w544-h544-l90-rj",
+            "author": "Miley Cyrus",
+            "song": "Jaded",
+            "json": "https://tune-radio.github.io/lyric/hits/Miley%20Cyrus%20-%20Jaded.json",
+            "audio": "https://tune-radio.github.io/hits/Miley%20Cyrus%20-%20Jaded.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/Sr-3g5hiYTbVRqNOGnlydmej5MjEVy5ewDyBh7T6WYHvyBEv1TB72Ak6Y5Z3Y5rLf4cJUnWAwnsE-FM=w544-h544-l90-rj",
+            "author": "Kenji ft Vianney",
+            "song": "Le Feu",
+            "json": "https://tune-radio.github.io/lyric/hits/Kenji%20Girac%20ft%20Vianney%20-%20Le%20feu..json",
+            "audio": "https://tune-radio.github.io/hits/Kenji%20Girac%20ft%20Vianney%20-%20Le%20feu.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/5GrSQ1s0E8Y0yukCm0q2etLLLVORk25a2B5d5rj4hxscOJofK6FMOFKTjOwY1IHyQSMeic0QnRjmmac=w544-h544-l90-rj",
+            "author": "Loi",
+            "song": "Gold",
+            "json": "https://tune-radio.github.io/lyric/hits/Loi%20-%20Gold.json",
+            "audio": "https://tune-radio.github.io/hits/Loi%20-%20Gold.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/3Jg7DX_dF_p7RLBw0Vt1qny_qCpBvF0FEMtP8RnyIfmon9IhRaNV4-A9tOByjjQRmSrrXrMpl-UMHM0N=w544-h544-l90-rj",
+            "author": "Aqua ft Tiësto",
+            "song": "Barbie Girl",
+            "json": "https://tune-radio.github.io/lyric/hits/Aqua%20-%20Barbie%20Girl%20(Ti%C3%ABsto%20Remix).json",
+            "audio": "https://tune-radio.github.io/hits/Aqua%20-%20Barbie%20Girl%20(Ti%C3%ABsto%20Remix).ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/HGf_nZ_J2rOU0UwDGd0gkFlEWnynJy0NAD22NodjGlQjf5gRSZUjVmI_j3AS7dNPTPU0NFIofoyUBQ8u=w544-h544-l90-rj",
+            "author": "Doja Cat ft SZA",
+            "song": "Kiss Me More",
+            "json": "https://tune-radio.github.io/lyric/hits/Doja%20Cat%20-%20Kiss%20Me%20More.json",
+            "audio": "https://tune-radio.github.io/hits/Doja%20Cat%20-%20Kiss%20Me%20More.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/73intuOHc-kUE7BJp0_aSHthIZ9pawdZCOXWL_CSVXa0PJoeUsuxi1AvZVU8dkUVR4m33tkmSX2Qx3U=w544-h544-l90-rj",
+            "author": "Lizzo",
+            "song": "2 Be Loved (Am I Ready)",
+            "json": "https://tune-radio.github.io/lyric/hits/Lizzo%20-%202%20Be%20Loved%20(Am%20I%20Ready).json",
+            "audio": "https://tune-radio.github.io/hits/Lizzo%20-%202%20Be%20Loved%20(Am%20I%20Ready).ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/VMVJXxPN4zR2XFumd_ha6Siv27k2zFwViSm9kcXdUQdoABVYZcKgi-0F15dXkLMbL9bsN3zwCBrlsPVC=w544-h544-l90-rj",
+            "author": "Elton John ft Britney Spears",
+            "song": "Hold Me Closer",
+            "json": "https://tune-radio.github.io/lyric/hits/Elton%20John%20ft%20Britney%20Spears%20-%20Hold%20Me%20Closer.json",
+            "audio": "https://tune-radio.github.io/hits/Elton%20John%20ft%20Britney%20Spears%20-%20Hold%20Me%20Closer.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/k7H2OdodpH3w3mF5zv5qjA6Ge07snVSnxce3GqA85asp6wK2LI165p7mT4dwsYHJ0UyV97hcLGjvaOLRSw=w544-h544-l90-rj",
+            "author": "Dua Lipa ft Calvin Harris",
+            "song": "One Kiss",
+            "json": "https://tune-radio.github.io/lyric/hits/Dua%20Lipa%20ft%20Calvin%20Harris%20-%20One%20Kiss.json",
+            "audio": "https://tune-radio.github.io/hits/Dua%20Lipa%20ft%20Calvin%20Harris%20-%20One%20Kiss.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/TZPXNC7DfGfzqxGbLzH5VLXLOl_64ohJx6z7ADY0jBWrTE89Jgm35Gn_7RyA5mVHeRQydxJ-UKAV9S47=w544-h544-l90-rj",
+            "author": "Sam Smith",
+            "song": "Diamonds",
+            "json": "https://tune-radio.github.io/lyric/hits/Sam%20Smith%20-%20Diamonds.json",
+            "audio": "https://tune-radio.github.io/hits/Sam%20Smith%20-%20Diamonds.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/TMbA3LImAL96nFkm5cI1x6LiEMvMbRg4IRxEeABd9qpXsfmwKhZHRD1MucnjG5QIsVEp0Vpn7h7M51FH3Q=w544-h544-l90-rj",
+            "author": "Ed Sheeran",
+            "song": "Shape of You",
+            "json": "https://tune-radio.github.io/lyric/hits/Ed%20Sheeran%20-%20Shape%20of%20You.json",
+            "audio": "https://tune-radio.github.io/hits/Ed%20Sheeran%20-%20Shape%20of%20You.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/3yZ-DPOigUT1R453gr5kVkQeu6PwZK1OivsZX7ozfFJog-H_VlxeJD9thjwH2zNA5x0IEzEt4w6PmK5t=w544-h544-l90-rj",
+            "author": "P!nk",
+            "song": "Try",
+            "json": "https://tune-radio.github.io/lyric/hits/P!nk%20-%20Try.json",
+            "audio": "https://tune-radio.github.io/hits/P!nk%20-%20Try.ogg"
+        },
+        {
+            "albumart": "https://lh3.googleusercontent.com/ZLkMUVjCgfC5YDCc0aF6vpfQWOp3CMjIxUElYqLPR4i9dEkJv9u9bgaioKNgg8stkW1FgjEpbW1wts6g=w544-h544-l90-rj",
+            "author": "Taylor Swift",
+            "song": "Shake It Off",
+            "json": "https://tune-radio.github.io/lyric/hits/Taylor%20Swift%20-%20Shake%20It%20Off.json",
+            "audio": "https://tune-radio.github.io/hits/Taylor%20Swift%20-%20Shake%20It%20Off.ogg"
+        }
+    ]
+}
