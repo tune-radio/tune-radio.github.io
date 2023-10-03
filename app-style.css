@@ -76,8 +76,8 @@ footer #player #menu>button.off:hover{opacity:.8}
 #playlist #show-box #show-list .song-list{width:100%;display:block}
 #playlist #show-box #show-list .song-list .song-list-row{width:100%}
 #playlist #show-box #show-list .song-list .song-list-row div.album-art{width:35px;height:35px;position:relative;margin:8px;}
-#playlist #show-box #show-list .song-list .song-list-row div.album-art img{width:35px;height:35px; border-radius: 5px;}
-#playlist #show-box #show-list .song-list .song-list-row .song-details{width:80%}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art img{position: absolute;width:35px;height:35px; border-radius: 5px;}
+#playlist #show-box #show-list .song-list .song-list-row .song-details{width:70%}
 #playlist #show-box #show-list .song-list .song-list-row .song-details h2,#playlist #show-box #show-list .song-list .song-list-row .song-details h4{margin:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 #playlist #show-box #show-list .song-list .song-list-row .song-details h2{font-size:90%;line-height:120%}
 #playlist #show-box #show-list .song-list .song-list-row .song-details h4{font-size:60%;line-height:160%;font-weight:400}
