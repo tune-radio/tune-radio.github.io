@@ -16,7 +16,7 @@ footer #player #bar #progress-bar{position:relative;text-align:center;padding:0;
 footer #player #bar #progress{height:5px;background:linear-gradient(115deg,#f003d0 0%,#ffa600 100%);border-radius:20px;text-align:right}
 footer #player #bar #progress>i{position:absolute;top:50%;transform:translate(-50%,-50%);box-shadow:0 0 8px 2px rgba(0,0,0,.27);padding:0 1px;color:transparent;background:#ffa600;border-radius:50%;font-size:80%;transition:all .5s ease}
 footer #player #bar #progress>i:hover{box-shadow:0 0 8px 2px rgba(0,0,0,.51)}footer #player #menu{position:relative;text-align:center;width:100%;overflow:hidden;padding:5px 0 2px}
-footer #player #menu>button{padding:10px 14px;border-radius:50%;border:none;margin:0 5px;background:inherit;color:#fff;font-size:20px;text-align:center;opacity:1;transition:all .2s ease;cursor:pointer}
+footer #player #menu>button{padding:9px 12px;border-radius:50%;border:none;margin:0 5px;background:inherit;color:#fff;font-size:20px;text-align:center;opacity:1;transition:all .2s ease;cursor:pointer}
 footer #player #menu>button>i{padding: 7px 6px;}
 footer #player #menu>button#play{opacity:1;border:2px solid #fff}
 footer #player #menu>button:focus{outline:none}
@@ -75,8 +75,8 @@ footer #player #menu>button.off:hover{opacity:.8}
 #playlist #show-box #show-list{position:relative;transition:all .5s ease-in-out;height:100%}
 #playlist #show-box #show-list .song-list{width:100%;display:block}
 #playlist #show-box #show-list .song-list .song-list-row{width:100%}
-#playlist #show-box #show-list .song-list .song-list-row div.album-art{width:35px;height:35px;max-width:35px;max-height:35px;overflow:hidden;position:relative;margin:8px;border-radius:5px}
-#playlist #show-box #show-list .song-list .song-list-row div.album-art img{width:100%;height:auto}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art{width:35px;height:35px;position:relative;margin:8px;}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art img{width:35px;height:35px; border-radius: 5px;}
 #playlist #show-box #show-list .song-list .song-list-row .song-details{width:80%}
 #playlist #show-box #show-list .song-list .song-list-row .song-details h2,#playlist #show-box #show-list .song-list .song-list-row .song-details h4{margin:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 #playlist #show-box #show-list .song-list .song-list-row .song-details h2{font-size:90%;line-height:120%}
@@ -158,6 +158,9 @@ button:focus{outline:none}
         width: 75%;
         height: auto;
     }
+    .footer #player #menu>button{
+        margin: 0px;
+    }
 }
 
 @media only screen and (max-height:200px) and (max-width:600px){
@@ -186,6 +189,9 @@ button:focus{outline:none}
     }
     #root,body,html{
         background: transparent;
+    }
+    footer #player #menu {
+        padding: 13px 0px;
     }
 }
 
