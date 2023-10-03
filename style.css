@@ -505,7 +505,7 @@ menu > a > img{
 
 .filtermenu{
     float: left;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 #searchInput{
     background-color: rgba(150,150,150,0.2);

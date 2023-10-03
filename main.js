@@ -115,6 +115,7 @@ filterCheckboxes.forEach(checkbox => {
 
 var frameshare = ""
 var urlshare = ""
+var typecurent = ""
 
 function fullplayer(){
   document.querySelector(".player").style.height = "100%";
@@ -122,6 +123,13 @@ function fullplayer(){
   document.querySelector(".fullscreen").style.display = "none";
   document.querySelector(".midscreen").style.display = "block";
   document.body.style.overflow = "hidden";
+  if ($(window).width() < 700){
+    document.querySelector(".fa-share-alt").style.display = "block";
+    document.querySelector(".fullscreen").style.bottom = "44px";
+    document.querySelector(".midscreen").style.bottom = "44px";
+  } else{
+    document.querySelector(".fa-share-alt").style.right = "70px";
+  }
 }
 function minplayer(){
   document.querySelector(".player").style.height = "90px";
@@ -129,6 +137,24 @@ function minplayer(){
   document.querySelector(".midscreen").style.display = "none";
   document.querySelector(".fullscreen").style.display = "block";
   document.body.style.overflow = "visible";
+  if (typecurent === "radio"){
+    if ($(window).width() < 700){
+      document.querySelector(".fa-share-alt").style.display = "none";
+      document.querySelector(".fullscreen").style.bottom = "31px";
+      document.querySelector(".midscreen").style.bottom = "31px";
+    } else{
+      document.querySelector(".fa-share-alt").style.right = "140px";
+    }
+  } else{
+    if ($(window).width() < 700){
+      document.querySelector(".fa-share-alt").style.display = "none";
+      document.querySelector(".fa-share-alt").style.right = "50px";
+      document.querySelector(".fullscreen").style.bottom = "31px";
+      document.querySelector(".midscreen").style.bottom = "31px";
+    } else{
+      document.querySelector(".fa-share-alt").style.right = "70px";
+    }
+  }
 }
 
 function playlist(url){
@@ -137,6 +163,7 @@ function playlist(url){
   document.getElementById("frameprev").src = 'https://tune-radio.github.io/playlist/' + url + '/?embed=share#/';
   document.getElementById("urlshare").value = "https://tune-radio.github.io/?share=" + url;
   document.querySelector(".fa-share-alt").style.display = "block";
+  typecurent = "list";
   minplayer();
   document.querySelector(".fa-share-alt").style.right = "70px";
 }
@@ -146,8 +173,13 @@ function playradio(url){
   document.getElementById("frameprev").src = 'https://tune-radio.github.io/radio/' + url + '/?embed=share#/';
   document.getElementById("urlshare").value = "https://tune-radio.github.io/?share=" + url;
   document.querySelector(".fa-share-alt").style.display = "block";
+  typecurent = "radio";
   minplayer();
-  document.querySelector(".fa-share-alt").style.right = "140px";
+  if ($(window).width() < 700){
+    document.querySelector(".fa-share-alt").style.right = "120px";
+  } else{
+    document.querySelector(".fa-share-alt").style.right = "140px";
+  }
 }
 
 const url = new URL(window.location.href);
@@ -170,6 +202,9 @@ function homepage(){
   document.querySelector(".settings").style.display = 'none';
   document.querySelector(".addpage").style.display = 'none';
   document.querySelector(".homec").classList.add("select");
+  document.getElementById("bar").style.display = 'block';
+  document.getElementById("close").style.display = 'none';
+  document.querySelector(".rightmenu").classList.remove("show");
 }
 function addpage(){
   document.querySelector(".settings").style.display = 'none';

@@ -4,7 +4,16 @@
     }
 }
 @media screen and (max-width: 700px){
-    
+    .fullscreen, .midscreen, .fa-share-alt{
+      font-size: 21px;
+    }
+    .fullscreen, .midscreen{
+      right: 2px;
+    }
+    .fa-share-alt{
+      left: 7px;
+      bottom: 44px;
+    }
     .mobiledis{
         display: block;
     }
@@ -24,33 +33,40 @@
         box-shadow: 0px 3px 4px 3px rgba(100, 100, 100, .2);
         border-radius: 10px;
       }
-      .rightmenu.show{
+    .rightmenu.show{
         display: block;
         right: 7px;
-      }
-      .rightmenu > .appd{
+    }
+    .rightmenu > .appd{
         margin: 0px 15px;
-      }
-      .radiogrid {
-        grid-template-columns: repeat(auto-fill,minmax(115px,0fr));
-      }
+    }
+    .radiogrid {
+        position: relative;
+        grid-template-columns: repeat(auto-fill,minmax(110px,0fr));
+        display: grid;
+        left: 50%;
+        transform: translate(-50%, -0%);
+        margin: 0px;
+    }
     .rb {
         height: 150px;
-        width: 115px;
+        width: 110px;
     }
-      .rb img {
+    .rb img, .rb > a > img{
         width: 100px;
         height: 100px;
+        margin: 0px;
     }
     .rb > h2 {
         top: 110px;
+        margin: 0px;
     }
     .filtertype{
       display: block;
       width: 100%;
   }
   #searchInput, #filterloca{
-    width: 160px;
+    width: 145px;
   }
   #searchInput, .filter-tag{
     margin-right: 1px;
@@ -62,5 +78,11 @@
   }
   .musbox{
     top: 400px;
+  }
+  h2{
+    font-size: 20px;
+  }
+  .sharepopup{
+    width: 95%;
   }
 }
