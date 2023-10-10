@@ -178,7 +178,7 @@ button:focus{outline:none}
         opacity: 1;
         bottom: 15px;
     }
-    .footer #player #menu>button{
+    #next, #prev, #play{
         margin: 0px !important;
         padding: 8px 10px !important;
     }
