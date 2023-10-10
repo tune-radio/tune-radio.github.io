@@ -180,7 +180,7 @@ button:focus{outline:none}
     }
     #next, #prev, #play{
         margin: 0px !important;
-        padding: 8px 10px !important;
+        padding: 7px 10px !important;
     }
     #playlist, #lyrics, header #top-bar button, footer #player #bar, #shuffle, #repeat{
         display: none;
