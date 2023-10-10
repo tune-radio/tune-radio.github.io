@@ -1,10 +1,10 @@
 /*App style*/
 #root,body,html{margin:0;padding:0;font-family:"Montserrat",sans-serif;overflow:auto;height:100vh;width:100vw;-webkit-user-select:none;-ms-user-select:none;user-select:none;background: rgba(50,50,50,0.05);}
 #root{background:inherit}
-.album-art-background{transition: all ease .3s;bottom:50%;left:50%;transform:translate(-50%,50%);height:100vh;width:auto;display:block;opacity:.2;position:fixed;pointer-events:none;}
+.album-art-background{transition: all ease .3s;bottom:50%;left:50%;transform:translate(-50%,50%);height:100vh;width:auto;display:block;opacity:.3;position:fixed;pointer-events:none;}
 header #top-bar #back{position: absolute; right: 15px; top: 5px;color:#fff;z-index:7;}
 header #top-bar button{transition: all ease .3s;background:inherit;color:inherit;border:none;padding:5px 10px;margin: 0 0px 0 15px;font-size: 22px;cursor:pointer;pointer-events:all}
-header #top-bar #about-song{transition: all ease .3s; position: absolute; left: 0px; top: 0px; margin:0;font-size:13px;line-height:150%;padding:10px;color:#fff;z-index:7;}
+header #top-bar #about-song{transition: all ease .3s; position: absolute; left: 0px; top: 0px; margin:0;font-size:13px;line-height:150%;padding:10px;color:#fff;z-index:4;}
 header #top-bar #about-song *{margin:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 footer{position:fixed;bottom:0;z-index:5;width:100%;padding: 5px 0 7px;}
 footer #player #bar{position:relative;text-align:center;width:100%}
@@ -13,7 +13,7 @@ footer #player #bar #currentTime{text-align:right;padding-right:12px}
 footer #player #bar #totalTime{text-align:left;padding-left:12px}
 footer #player #bar #currentTime,footer #player #bar #progress-bar,footer #player #bar #totalTime{color:#fff}
 footer #player #bar #progress-bar{position:relative;text-align:center;padding:0;width:70%;background:#3c3c3c;border-radius:20px;margin:0;cursor:pointer}
-footer #player #bar #progress{height:5px;background:linear-gradient(115deg,#f003d0 0%,#ffa600 100%);border-radius:20px;text-align:right}
+footer #player #bar #progress{height:5px;background:linear-gradient(115deg,#f003d0 0%,#ffa600 100%);border-radius:20px;text-align:right;transition: all .5s ease-out;}
 footer #player #bar #progress>i{position:absolute;top:50%;transform:translate(-50%,-50%);box-shadow:0 0 8px 2px rgba(0,0,0,.27);padding:0 1px;color:transparent;background:#ffa600;border-radius:50%;font-size:80%;transition:all .5s ease}
 footer #player #bar #progress>i:hover{box-shadow:0 0 8px 2px rgba(0,0,0,.51)}footer #player #menu{position:relative;text-align:center;width:100%;overflow:hidden;padding:5px 0 2px}
 footer #player #menu>button{padding:9px 12px;border-radius:50%;border:none;margin:0 5px;background:inherit;color:#fff;font-size:20px;text-align:center;opacity:1;transition:all .2s ease;cursor:pointer}
@@ -132,9 +132,9 @@ button:focus{outline:none}
         display: none;
     }
     header #top-bar #about-song{
-        left: 75px;
+        left: 67px;
         top: 0px;
-        font-size: 15px;
+        font-size: 14px;
     }
     .album-art-background{
         left: 5px;
@@ -181,12 +181,16 @@ button:focus{outline:none}
         opacity: 1;
         bottom: 15px;
     }
+    .footer #player #menu>button{
+        margin: 0px;
+        padding: 8px 10px;
+    }
     #playlist, #lyrics, header #top-bar button, footer #player #bar, #shuffle, #repeat{
         display: none;
     }
     footer {
         bottom: 0;
-        right: 0px;
+        right: 17px;
         width: auto;
         padding: 2px;
     }

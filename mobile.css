@@ -8,7 +8,7 @@
       font-size: 21px;
     }
     .fullscreen, .midscreen{
-      right: 2px;
+      right: 5px;
     }
     .fa-share-alt{
       left: 7px;
@@ -61,10 +61,6 @@
         top: 110px;
         margin: 0px;
     }
-    .filtertype{
-      display: block;
-      width: 100%;
-  }
   #searchInput, #filterloca{
     width: 145px;
   }

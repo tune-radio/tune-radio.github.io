@@ -95,9 +95,14 @@ filterCheckboxes.forEach(checkbox => {
       checkedCategories.forEach(category => {
         if (
           (itemClasses.contains(category) || 
-           (category === 'national' && itemClasses.contains('n')) ||
-           (category === 'webradio' && itemClasses.contains('w')) ||
-           (category === 'regional' && itemClasses.contains('r'))
+           (category === 'pop' && itemClasses.contains('p')) ||
+           (category === 'hiphop' && itemClasses.contains('h')) ||
+           (category === 'rock' && itemClasses.contains('r')) ||
+           (category === 'electro' && itemClasses.contains('e')) ||
+           (category === 'classique' && itemClasses.contains('c')) ||
+           (category === 'country' && itemClasses.contains('a')) ||
+           (category === 'jazz' && itemClasses.contains('j')) ||
+           (category === 'latino' && itemClasses.contains('l'))
           )
         ) {
           showItem = true;
