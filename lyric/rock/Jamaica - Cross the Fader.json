@@ -1,7 +1,8 @@
 {
-    "lyrics": [{
+    "lyrics": [
+        {
             "line": "<i class="fa fa-music"></i>",
-            "time": 1000
+            "time": 10000
         },{
             "line": "Don't hesitate",
             "time": 43000
