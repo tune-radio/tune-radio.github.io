@@ -1,5 +1,8 @@
 {
     "lyrics": [{
+            "line": "<i class="fa fa-music"></i>",
+            "time": 1000
+        },{
             "line": "Don't hesitate",
             "time": 43000
         },{
@@ -7,7 +10,7 @@
             "time": 46000
         },{
             "line": "Trying to give you a hand",
-            "time": 47000
+            "time": 47500
         },{
             "line": "Job all day long",
             "time": 49000
@@ -16,7 +19,7 @@
             "time": 52000
         },{
             "line": "Why don't you call her on the phone ?",
-            "time": 53000
+            "time": 53500
         },{
             "line": "Cause you're a man",
             "time": 55000
@@ -36,6 +39,9 @@
             "line": "Gotta hurry to make a scene",
             "time": 65000
         },{
+            "line": "<i class="fa fa-music"></i>",
+            "time": 68000
+        },{
             "line": "Show confidence",
             "time": 78000
         },{
@@ -43,7 +49,7 @@
             "time": 82000
         },{
             "line": "Trying to give you a hand",
-            "time": 83000
+            "time": 83500
         },{
             "line": "Job all day long",
             "time": 84000
@@ -52,7 +58,7 @@
             "time": 87000
         },{
             "line": "Why don't you call her on the phone ?",
-            "time": 88000
+            "time": 88500
         },{
             "line": "Cause you're a man",
             "time": 90000
@@ -107,6 +113,81 @@
         },{
             "line": "Because she's on me",
             "time": 123000
+        },{
+            "line": "Don't hesitate",
+            "time": 129000
+        },{
+            "line": "She's just a girl",
+            "time": 131000
+        },{
+            "line": "Trying to give you a hand",
+            "time": 132500
+        },{
+            "line": "Job all day long",
+            "time": 134000
+        },{
+            "line": "She's just a girl",
+            "time": 137000
+        },{
+            "line": "Why don't you call her on the phone ?",
+            "time": 138500
+        },{
+            "line": "Cause you're a man",
+            "time": 140000
+        },{
+            "line": "You're just a man indeed",
+            "time": 143000
+        },{
+            "line": "Don't try to fly your needs",
+            "time": 145000
+        },{
+            "line": "Ain't got the time",
+            "time": 146500
+        },{
+            "line": "The clock is ticking",
+            "time": 149000
+        },{
+            "line": "Gotta hurry to make a scene",
+            "time": 150000
+        },{
+            "line": "Studio, in a studio",
+            "time": 152000
+        },{
+            "line": "She's a lie in a miniskirt",
+            "time": 154000
+        },{
+            "line": "Please cross the fader",
+            "time": 156000
+        },{
+            "line": "Studio, in a studio",
+            "time": 157500
+        },{
+            "line": "She's a lie in a miniskirt",
+            "time": 160000
+        },{
+            "line": "Please cross the fader",
+            "time": 162000
+        },{
+            "line": "Studio, in a studio",
+            "time": 163500
+        },{
+            "line": "She's a lie in a miniskirt",
+            "time": 166000
+        },{
+            "line": "Please cross the fader",
+            "time": 168000
+        },{
+            "line": "Studio, in a studio",
+            "time": 169500
+        },{
+            "line": "It's about to come out",
+            "time": 172000
+        },{
+            "line": "Because she's on me",
+            "time": 174000
+        },{
+            "line": "<i class="fa fa-music"></i>",
+            "time": 176000
         }
     ]
 }
