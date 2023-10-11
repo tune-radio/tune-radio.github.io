@@ -188,6 +188,7 @@ button:focus{outline:none}
     footer {
         bottom: 0;
         width: auto;
+        right: 0px;
         padding: 2px;
     }
     #root,body,html{
