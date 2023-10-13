@@ -2,7 +2,7 @@
     "lyrics": [
         {
             "line": "♫",
-            "time": 1000
+            "time": 100
         },{
             "line": "Don't hesitate",
             "time": 43000
@@ -41,7 +41,7 @@
             "time": 65000
         },{
             "line": "♫",
-            "time": 68000
+            "time": 67500
         },{
             "line": "Show confidence",
             "time": 78000
@@ -50,7 +50,7 @@
             "time": 82000
         },{
             "line": "Trying to give you a hand",
-            "time": 83500
+            "time": 83000
         },{
             "line": "Job all day long",
             "time": 84000
