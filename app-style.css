@@ -28,7 +28,7 @@ footer #player #menu>button.off:hover{opacity:.8}
 }
 #lyrics{width:100%;margin-top:60px;height:75.5vh;color:#fff;text-align:center;overflow-Y:scroll;font-size:13px;scroll-behavior:smooth;transition: all ease .3s;}
 #lyrics #lyrics-content{width:90%;margin:auto;padding:20px 0;transition:all .1s ease}
-#lyrics h2{opacity:.25}#lyrics .on-top{opacity:1;font-size:250%}
+#lyrics h2{opacity:.25}#lyrics .on-top{opacity:1;font-size:225%}
 
 @media only screen and (max-height:720px){
     #lyrics{height:71vh}
