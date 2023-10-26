@@ -68,7 +68,7 @@
             "time": 56500
         },{
             "line": "That's what I fuckin' want",
-            "time": 60000
+            "time": 59000
         },{
             "line": "Look",
             "time": 62500
@@ -110,58 +110,58 @@
             "time": 92500
         },{
             "line": "I want (ah)",
-            "time": 105000
+            "time": 95000
         },{
             "line": "Someone to love me",
-            "time": 108000
+            "time": 98000
         },{
             "line": "I need (ah)",
+            "time": 100000
+        },{
+            "line": "Someone who needs me",
+            "time": 103500
+        },{
+            "line": "'Cause it don't feel right when it's late at night",
+            "time": 107000
+        },{
+            "line": "And it's just me and my dreams",
             "time": 110000
         },{
-            "line": "Someone who needs me",
-            "time": 113500
-        },{
-            "line": "'Cause it don't feel right when it's late at night",
-            "time": 117000
-        },{
-            "line": "And it's just me and my dreams",
-            "time": 120000
-        },{
             "line": "So I want (ah)",
-            "time": 122000
+            "time": 112000
         },{
             "line": "Someone to love",
-            "time": 124500
+            "time": 114500
         },{
             "line": "That's what I fuckin' want",
-            "time": 126500
+            "time": 116500
         },{
             "line": "I want (ah)",
-            "time": 129000
+            "time": 119000
         },{
             "line": "Someone to love me",
-            "time": 131500
+            "time": 121500
         },{
             "line": "I need (ah)",
-            "time": 133000
+            "time": 123000
         },{
             "line": "Someone who needs me",
-            "time": 137000
+            "time": 127000
         },{
             "line": "'Cause it don't feel right when it's late at night",
-            "time": 140000
+            "time": 130000
         },{
             "line": "And it's just me and my dreams",
-            "time": 142500
+            "time": 132500
         },{
             "line": "So I want (ah)",
-            "time": 144000
+            "time": 134000
         },{
             "line": "Someone to love",
-            "time": 148000
+            "time": 138000
         },{
             "line": "That's what I fuckin' want",
-            "time": 150000
+            "time": 140000
         }
     ]
 }
