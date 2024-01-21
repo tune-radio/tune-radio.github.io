@@ -130,8 +130,8 @@ function fullplayer(){
   document.body.style.overflow = "hidden";
   if ($(window).width() < 700){
     document.querySelector(".fa-share-alt").style.display = "block";
-    document.querySelector(".fullscreen").style.bottom = "44px";
-    document.querySelector(".midscreen").style.bottom = "44px";
+    document.querySelector(".fullscreen").style.bottom = "58px";
+    document.querySelector(".midscreen").style.bottom = "58px";
   } else{
     document.querySelector(".fa-share-alt").style.right = "70px";
   }
