@@ -626,23 +626,17 @@ menu > a > img{
     -webkit-backdrop-filter: saturate(150%) blur(20px);
     transition: all .2s ease;
 }
-.fullscreen, .midscreen{
+.fullscreen, .midscreen, .fa-share-alt{
   position: fixed;
-  bottom: 27px;
-  right: 10px;
-  display: none;
-  z-index: 4;
-  font-size: 30px;
-  color: #fff;
-}
-.fa-share-alt{
-  position: fixed;
-  bottom: 27px;
+  bottom: 30px;
   display: none;
   z-index: 4;
   font-size: 30px;
   color: #fff;
   transition: all ease-out .2s;
+}
+.fullscreen, .midscreen{
+  right: 10px;
 }
 
 noscript{
