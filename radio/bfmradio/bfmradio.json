@@ -1,0 +1,11 @@
+{
+    "songs": [
+        {
+            "albumart": "https://tune-radio.github.io/assets/radio/bfmradio.png",
+            "author": "Suivez vos émissions et toute l'actualité en direct",
+            "song": "BFM Radio",
+            "json": "",
+            "audio": "https://audio.bfmtv.com/bfmradio_128.mp3"
+        }
+    ]
+}
