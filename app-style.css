@@ -146,7 +146,7 @@ button:focus{outline:none}
         bottom: 10px;
     }
     footer #player #menu{
-        padding: 5px 0;
+        padding: 10px 0px;
     }
     #root,body,html{
         background: transparent;
