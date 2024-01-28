@@ -812,12 +812,6 @@ noscript{
 }
 
 /*Scrollbar*/
-/*Firefox*/
-body {
-    scrollbar-width: thin;
-    scrollbar-color: #eee #666;
-}
-    
 /*Chrome, Edge, Safari*/
 *::-webkit-scrollbar{
     width: 9px;
