@@ -190,7 +190,7 @@ function playradio(url){
 const url = new URL(window.location.href);
 var share = url.searchParams.get("share");
 
-if (share === "hits" || share === "pop" || share === "hiphop" || share === "rock" || share === "electro" || share === "kpop" || share === "country"){
+if (share === "pop" || share === "hiphop" || share === "rock" || share === "electro" || share === "kpop" || share === "country"){
   playlist(share);
 }else if (share === null){
 }else{
