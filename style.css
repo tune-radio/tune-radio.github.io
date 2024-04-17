@@ -776,7 +776,7 @@ noscript{
 
   /*Adpage*/
 .addbox{
-  position: fixed;
+  position: relative;
   top: 60px;
   display: block;
   font-size: 100px;
@@ -803,12 +803,6 @@ noscript{
 .addbox > a > button:hover{
   background-color: pink;
   box-shadow: 0 8px 24px 0 rgba(251, 134, 255, 0.3);
-}
-.radbox{
-  left: 40px;
-}
-.musbox{
-  right: 50px;
 }
 
 /*Scrollbar*/
