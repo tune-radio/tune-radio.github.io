@@ -1,11 +1,11 @@
 {
     "songs": [
         {
-            "albumart": "https://tune-radio.github.io/assets/radio/ngradio.png",
+            "albumart": "https://leo-t-88.github.io/tune-radio/assets/radio/ngradio.png",
             "author": "Le meilleur de la musique",
             "song": "NG Radio",
             "json": "",
-            "audio": "https://radio.nationsglory.fr:8000/ngradio.mp3"
+            "audio": "https://radio.nationsglory.fr/listen/ngradio/ngradio"
         }
     ]
 }
