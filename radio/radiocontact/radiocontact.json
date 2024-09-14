@@ -1,11 +1,11 @@
 {
     "songs": [
         {
-            "albumart": "https://tune-radio.github.io/assets/radio/radiocontact.png",
+            "albumart": "https://leo-t-88.github.io/tune-radio/assets/radio/radiocontact.png",
             "author": "Le Meilleur Mix",
             "song": "Radio Contact",
             "json": "",
-            "audio": "https://radio-contact.ice.infomaniak.ch/radio-contact-high"
+            "audio": "https://www.radiocontact.fr/api/streams/4ggkhOh2UD/1726326175485"
         }
     ]
 }
