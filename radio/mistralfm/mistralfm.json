@@ -1,21 +1,21 @@
 {
     "songs": [
         {
-            "albumart": "https://tune-radio.github.io/assets/radio/mistralfm.png",
+            "albumart": "https://leo-t-88.github.io/tune-radio/assets/radio/mistralfm.png",
             "author": "Tous les Hits !",
             "song": "Mistral FM - Marseille",
             "json": "",
             "audio": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3"
         },
         {
-            "albumart": "https://tune-radio.github.io/assets/radio/mistralfm.png",
+            "albumart": "https://leo-t-88.github.io/tune-radio/assets/radio/mistralfm.png",
             "author": "Tous les Hits !",
             "song": "Mistral FM - Nice",
             "json": "",
             "audio": "https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3"
         },
         {
-            "albumart": "https://tune-radio.github.io/assets/radio/mistralfm.png",
+            "albumart": "https://leo-t-88.github.io/tune-radio/assets/radio/mistralfm.png",
             "author": "Tous les Hits !",
             "song": "Mistral FM - Toulon",
             "json": "",
