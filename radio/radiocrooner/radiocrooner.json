@@ -1,9 +1,9 @@
 {
     "songs": [
         {
-            "albumart": "https://tune-radio.github.io/assets/radio/radiocrooner.png",
+            "albumart": "https://leo-t-88.github.io/tune-radio/assets/radio/radiocrooner.png",
             "author": "Les plus grands standards de la variété internationale",
-            "song": "NG Radio",
+            "song": "Radio Crooner",
             "json": "",
             "audio": "https://croonerradio.ice.infomaniak.ch/croonerradio-midfi.mp3"
         }
