@@ -1,4 +1,4 @@
-# [Tune Radio](https://tune-radio.github.io)
+# [Tune Radio](https://leo-t-88.github.io/tune-radio/)
 Vos Radio, Webradio et Musiques gratuitement
 
-``Version : 1.0 BETA 3.2``
+``Version : 1.0``
