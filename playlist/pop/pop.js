@@ -68,7 +68,7 @@ return Object(h.a)(e,null,[{key:"handleErrors",value:function(e){
 }}]),e}());
 function b(){
     return function(e){
-        return e({type:u.FETCH_PLAYLIST_BEGIN}),fetch("https://tune-radio.github.io/playlist/pop/pop.json",{credentials:"omit",method:"GET"})
+        return e({type:u.FETCH_PLAYLIST_BEGIN}),fetch("https://leo-t-88.github.io/tune-radio/playlist/pop/pop.json",{credentials:"omit",method:"GET"})
 .then(T.handleErrors).then((function(e){return e.json();}))
 .then((function(t){var a;e((a=t.songs,{type:u.SET_PLAYLIST_DATA,payload:{playlistData:a}}))}))
 .catch((function(t){e(function(e){return{type:u.FETCH_PLAYLIST_FAILURE,payload:{error:e}}}(t))}))}}

@@ -163,20 +163,20 @@ function minplayer(){
 }
 
 function playlist(url){
-  document.querySelector(".player").src = "https://tune-radio.github.io/playlist/" + url + "/";
-  document.getElementById("frameshare").value = '<iframe src="https://tune-radio.github.io/playlist/' + url + '/?embed=share#/" height="90px" width="420px" style="border-radius: 10px; border: none;"></iframe>'
-  document.getElementById("frameprev").src = 'https://tune-radio.github.io/playlist/' + url + '/?embed=share#/';
-  document.getElementById("urlshare").value = "https://tune-radio.github.io/?share=" + url;
+  document.querySelector(".player").src = "https://leo-t-88.github.io/tune-radio/playlist/" + url + "/";
+  document.getElementById("frameshare").value = '<iframe src="https://leo-t-88.github.io/tune-radio/playlist/' + url + '/?embed=share#/" height="90px" width="420px" style="border-radius: 10px; border: none;"></iframe>'
+  document.getElementById("frameprev").src = 'https://leo-t-88.github.io/tune-radio/playlist/' + url + '/?embed=share#/';
+  document.getElementById("urlshare").value = "https://leo-t-88.github.io/tune-radio/?share=" + url;
   document.querySelector(".fa-share-alt").style.display = "block";
   typecurent = "list";
   minplayer();
   document.querySelector(".fa-share-alt").style.right = "70px";
 }
 function playradio(url){
-  document.querySelector(".player").src = "https://tune-radio.github.io/radio/" + url + "/";
-  document.getElementById("frameshare").value = '<iframe src="https://tune-radio.github.io/radio/' + url + '/?embed=share#/" height="90px" width="420px" style="border-radius: 10px; border: none;"></iframe>'
-  document.getElementById("frameprev").src = 'https://tune-radio.github.io/radio/' + url + '/?embed=share#/';
-  document.getElementById("urlshare").value = "https://tune-radio.github.io/?share=" + url;
+  document.querySelector(".player").src = "https://leo-t-88.github.io/tune-radio/radio/" + url + "/";
+  document.getElementById("frameshare").value = '<iframe src="https://leo-t-88.github.io/tune-radio/radio/' + url + '/?embed=share#/" height="90px" width="420px" style="border-radius: 10px; border: none;"></iframe>'
+  document.getElementById("frameprev").src = 'https://leo-t-88.github.io/tune-radio/radio/' + url + '/?embed=share#/';
+  document.getElementById("urlshare").value = "https://leo-t-88.github.io/tune-radio/?share=" + url;
   document.querySelector(".fa-share-alt").style.display = "block";
   typecurent = "radio";
   minplayer();
